@@ -1932,3 +1932,115 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18Jul2025 18:53:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 was shot by Skeleton
 [18Jul2025 18:53:34.628] [Server thread/INFO] [tombstone/]: The player Killerprank125 has successfully been saved
 [18Jul2025 18:53:36.574] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 18:57:28.628] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepenson is 8865a0ec-a2eb-44c4-a2cf-4e5440d588ad
+[18Jul2025 18:57:40.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepenson[/127.48.179.90:44689] logged in with entity id 4051 at (284.69999998807907, 63.0, -97.65469063976884)
+[18Jul2025 18:57:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson joined the game
+[18Jul2025 18:57:41.195] [Server thread/INFO] [Jade/]: Syncing config to Pepenson (8865a0ec-a2eb-44c4-a2cf-4e5440d588ad)
+[18Jul2025 18:59:12.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson was blown up by Creeper
+[18Jul2025 18:59:12.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Your First Grave]
+[18Jul2025 18:59:12.389] [Server thread/INFO] [tombstone/]: The player Pepenson has successfully been saved
+[18Jul2025 18:59:13.522] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 18:59:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has reached the goal [Here They Come]
+[18Jul2025 18:59:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has completed the challenge [Cannibal]
+[18Jul2025 19:00:18.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance was blown up by Creeper
+[18Jul2025 19:00:18.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Your First Grave]
+[18Jul2025 19:00:18.422] [Server thread/INFO] [tombstone/]: The player MsTrance has successfully been saved
+[18Jul2025 19:00:20.284] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 19:00:27.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement ['X' Marks the Spot]
+[18Jul2025 19:00:38.200] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 13.62 ms. 17786/19096 recipes are parallelized.
+[18Jul2025 19:00:49.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Crops of the Wild]
+[18Jul2025 19:00:53.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson drowned
+[18Jul2025 19:00:53.234] [Server thread/INFO] [tombstone/]: The player Pepenson has successfully been saved
+[18Jul2025 19:00:54.859] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 19:01:07.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Stone Age]
+[18Jul2025 19:01:26.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] hola gente
+[18Jul2025 19:01:29.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Getting an Upgrade]
+[18Jul2025 19:01:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] me gusta la mama del pedro
+[18Jul2025 19:03:08.356] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 344.8 μs. 476/476 recipes are parallelized.
+[18Jul2025 19:03:44.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Stone Age]
+[18Jul2025 19:06:35.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Luscious Surroundings]
+[18Jul2025 19:08:44.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Stone Age]
+[18Jul2025 19:08:50.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Getting an Upgrade]
+[18Jul2025 19:08:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Getting an Upgrade]
+[18Jul2025 19:11:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Sky of Beginning]
+[18Jul2025 19:11:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Monster Hunter]
+[18Jul2025 19:12:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Monster Hunter]
+[18Jul2025 19:13:14.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Take Aim]
+[18Jul2025 19:13:35.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Monster Hunter]
+[18Jul2025 19:13:36.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Not a Diamond]
+[18Jul2025 19:13:38.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Knowledge of Death]
+[18Jul2025 19:13:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [A Strange Grave Dust]
+[18Jul2025 19:13:41.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Becky the Dragonborn'/9034, l='ServerLevel[world]', x=585.30, y=64.44, z=-169.16] died: Becky the Dragonborn was slain by Pepenson
+[18Jul2025 19:13:45.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Suit Up]
+[18Jul2025 19:13:47.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Not a Diamond]
+[18Jul2025 19:13:48.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has completed the challenge [He Wasn't So Strong]
+[18Jul2025 19:13:48.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Apothic Affixes]
+[18Jul2025 19:14:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Sweet Dreams]
+[18Jul2025 19:15:19.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement ['X' Marks the Spot]
+[18Jul2025 19:15:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Crops of the Wild]
+[18Jul2025 19:15:31.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement ['X' Marks the Spot]
+[18Jul2025 19:19:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] DEBIDOA PEDIDOS DEL PUBLICO SE EMPEZARA A AÑADIR MAS MODS, POR FAVOR VOTEN LOS PREFERIDOS: JENNYS MODS, AVARITA, DRAGONIC EVOLUTION
+[18Jul2025 19:19:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Ashes 'n Bones]
+[18Jul2025 19:22:10.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [An Extra Seedy Place]
+[18Jul2025 19:22:28.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Not a Diamond]
+[18Jul2025 19:22:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Far From Perfect]
+[18Jul2025 19:22:40.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement ['X' Marks the Spot]
+[18Jul2025 19:22:48.683] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set 9-Chevron Address to -5-7-9-18-29-12-28-19-
+[18Jul2025 19:22:48.683] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Stargate -5-7-9-18-29-12-28-19- to BlockEntityList
+[18Jul2025 19:25:27.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Knowledge of Death]
+[18Jul2025 19:25:27.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Funeral Theft]
+[18Jul2025 19:26:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Luscious Surroundings]
+[18Jul2025 19:27:35.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Luscious Surroundings]
+[18Jul2025 19:32:23.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Totally Tubular Transfer]
+[18Jul2025 19:32:25.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Better Than Signs]
+[18Jul2025 19:32:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Let's Torque About Tools]
+[18Jul2025 19:32:31.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [You spin me right round]
+[18Jul2025 19:33:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Mutual Aid]
+[18Jul2025 19:35:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [How'd You Get This?]
+[18Jul2025 19:35:03.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Apothic Affixes]
+[18Jul2025 19:35:04.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Acquire Hardware]
+[18Jul2025 19:35:39.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Acquire Hardware]
+[18Jul2025 19:35:52.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Isn't It Iron Pick]
+[18Jul2025 19:36:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Sky of Beginning]
+[18Jul2025 19:37:42.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Suit Up]
+[18Jul2025 19:39:01.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Sky of Beginning]
+[18Jul2025 19:39:28.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Sweet Dreams]
+[18Jul2025 19:41:26.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Stone Age]
+[18Jul2025 19:42:12.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Not a Diamond]
+[18Jul2025 19:43:16.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [I Found It Underground]
+[18Jul2025 19:43:16.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has reached the goal [Worthy Equipment]
+[18Jul2025 19:43:39.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [I Found It Underground]
+[18Jul2025 19:43:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has reached the goal [Worthy Equipment]
+[18Jul2025 19:44:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Acquire Hardware]
+[18Jul2025 19:44:07.983] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=64, z=-42}
+[18Jul2025 19:45:11.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Getting an Upgrade]
+[18Jul2025 19:47:13.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Amateur Archaeologist]
+[18Jul2025 19:49:05.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Luscious Surroundings]
+[18Jul2025 19:51:12.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Sweet Dreams]
+[18Jul2025 19:51:30.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [A Strange Grave Dust]
+[18Jul2025 19:51:32.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Sweet Dreams]
+[18Jul2025 20:04:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Unknown Technology]
+[18Jul2025 20:07:01.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Knowledge of Death]
+[18Jul2025 20:07:01.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has reached the goal [Strong or Careful]
+[18Jul2025 20:07:01.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance was shot by Summoned Skeleton
+[18Jul2025 20:07:01.380] [Server thread/INFO] [tombstone/]: The player MsTrance has successfully been saved
+[18Jul2025 20:07:03.001] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 20:09:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Ambush]
+[18Jul2025 20:10:10.210] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Jul2025 20:10:16.693] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Jul2025 20:10:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [The First Explosion (of many?)]
+[18Jul2025 20:14:38.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Fellow Engineers]
+[18Jul2025 20:15:29.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Far From Perfect]
+[18Jul2025 20:15:32.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Fellow Engineers]
+[18Jul2025 20:18:48.638] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Jul2025 20:18:48.642] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Jul2025 20:19:31.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Disme A Dozen]
+[18Jul2025 20:22:10.736] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set 9-Chevron Address to -30-33-20-3-17-27-2-16-
+[18Jul2025 20:22:10.736] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Stargate -30-33-20-3-17-27-2-16- to BlockEntityList
+[18Jul2025 20:22:12.692] [Worker-Main-39/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1637, y=52, z=-1077}
+[18Jul2025 20:22:12.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson moved too quickly! 9.269110039943143,1.1767592750642422,-4.378093714921079
+[18Jul2025 20:22:12.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fimo0 moved too quickly! 8.022232522168224,-1.434788196918305,-5.843365619138353
+[18Jul2025 20:22:12.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[18Jul2025 20:23:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Knowledge of Death]
+[18Jul2025 20:23:49.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Funeral Theft]
+[18Jul2025 20:23:54.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Your First Receptacle]
