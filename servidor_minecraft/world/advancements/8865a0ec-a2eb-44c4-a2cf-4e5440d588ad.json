@@ -50,6 +50,8 @@
       "minecraft:swamp": "2025-07-18 19:04:02 +0000",
       "minecraft:cold_ocean": "2025-07-18 18:59:54 +0000",
       "minecraft:forest": "2025-07-18 18:44:25 +0000",
+      "minecraft:jungle": "2025-07-18 20:28:43 +0000",
+      "minecraft:meadow": "2025-07-18 20:21:27 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-18 19:04:19 +0000",
       "minecraft:plains": "2025-07-18 19:03:52 +0000"
     },
@@ -999,6 +1001,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-07-18 20:25:53 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/end_stone_lantern": {
     "criteria": {
       "recipe_condition": "2025-07-18 19:28:19 +0000"
@@ -1107,6 +1115,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-18 19:08:44 +0000"
@@ -1140,6 +1154,12 @@
   "utilitarian:recipes/misc/angel_block": {
     "criteria": {
       "has_feather": "2025-07-18 19:40:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -1257,6 +1277,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:35:04 +0000"
@@ -1362,6 +1388,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-18 19:45:09 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -1551,6 +1583,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/tiny_charcoal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-07-18 20:25:59 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/bricks_lantern": {
     "criteria": {
       "recipe_condition": "2025-07-18 19:28:19 +0000"
@@ -1560,6 +1598,18 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 19:22:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -1614,6 +1664,12 @@
   "utilitarian:recipes/misc/utility/oak_logs_to_slabs": {
     "criteria": {
       "has_log": "2025-07-18 19:02:57 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -1867,9 +1923,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2025-07-18 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -1888,6 +1956,12 @@
   "additionallanterns:recipes/misc/andesite_lantern": {
     "criteria": {
       "recipe_condition": "2025-07-18 19:28:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
     },
     "done": true
   },
@@ -2221,6 +2295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-07-18 19:27:08 +0000"
@@ -2293,6 +2373,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/lavender_wool": {
     "criteria": {
       "has_white_wool": "2025-07-18 19:22:14 +0000"
@@ -2344,6 +2430,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-18 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-18 20:25:20 +0000"
     },
     "done": true
   },
@@ -2581,6 +2673,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/stone_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 20:25:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-18 20:13:40 +0000"
@@ -2638,6 +2736,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-18 19:22:14 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-18 20:25:59 +0000"
     },
     "done": true
   },
@@ -2764,6 +2868,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-18 19:08:18 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -3049,9 +3159,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-07-18 19:08:18 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -3145,6 +3267,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/misc/blasting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-18 20:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-18 19:40:19 +0000"
@@ -3163,6 +3291,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/crafting_card": {
     "criteria": {
       "crafter": "2025-07-18 19:08:08 +0000"
@@ -3172,6 +3306,12 @@
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
     },
     "done": true
   },
@@ -3572,6 +3712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-18 20:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-18 19:33:19 +0000"
@@ -3749,6 +3895,12 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-18 20:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
     },
     "done": true
   },
@@ -4016,6 +4168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
+    },
+    "done": true
+  },
   "sgjourney:recipes/misc/fire_pit": {
     "criteria": {
       "has_coal": "2025-07-18 19:31:40 +0000"
@@ -4220,6 +4378,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-07-18 20:25:53 +0000",
       "opened_chest": "2025-07-18 19:00:27 +0000"
     },
     "done": false
@@ -4233,6 +4392,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-18 20:04:15 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -4311,6 +4476,12 @@
   "rftoolsbuilder:recipes/misc/shape_card_def": {
     "criteria": {
       "iron_ingot": "2025-07-18 19:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
     },
     "done": true
   },
@@ -4488,6 +4659,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-18 20:09:37 +0000"
@@ -4632,6 +4809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-07-18 19:08:18 +0000"
@@ -4641,6 +4824,12 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-18 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
     },
     "done": true
   },
@@ -4824,6 +5013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-18 19:31:40 +0000"
@@ -4881,6 +5076,12 @@
   "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
     "criteria": {
       "has_planks": "2025-07-18 19:08:05 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-07-18 20:24:14 +0000"
     },
     "done": true
   },
@@ -5091,6 +5292,12 @@
   "enderio:recipes/misc/pressurized_fluid_tank": {
     "criteria": {
       "has_ingredient": "2025-07-18 19:35:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:25:20 +0000"
     },
     "done": true
   },

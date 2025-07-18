@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 20:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-18 19:29:09 +0000"
@@ -216,6 +222,30 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-07-18 19:47:55 +0000"
@@ -336,6 +366,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-07-18 20:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-18 19:01:43 +0000"
@@ -447,6 +483,12 @@
   "dyenamics:recipes/misc/dye_conifer_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 19:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 20:26:23 +0000"
     },
     "done": true
   },
@@ -582,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
@@ -603,6 +651,12 @@
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-18 20:21:28 +0000"
     },
     "done": true
   },
@@ -804,6 +858,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-18 20:27:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
@@ -915,6 +975,18 @@
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/tiny_charcoal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-07-18 20:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -1268,6 +1340,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/experience_crystal": {
     "criteria": {
       "criterion1": "2025-07-18 19:15:20 +0000"
@@ -1283,6 +1361,12 @@
   "silentgear:recipes/misc/sturdy_repair_kit": {
     "criteria": {
       "has_item": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -1313,6 +1397,12 @@
   "dyenamics:recipes/misc/bed/mint_bed_frm_white_bed": {
     "criteria": {
       "has_white_bed": "2025-07-18 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -1568,6 +1658,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/spruce_planks_1x": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-07-18 19:02:53 +0000"
@@ -1664,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-07-18 19:23:34 +0000"
@@ -1672,6 +1780,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-07-18 20:21:53 +0000",
       "maple_woods": "2025-07-18 19:40:17 +0000",
       "field": "2025-07-18 19:41:06 +0000",
       "orchard": "2025-07-18 19:22:51 +0000",
@@ -1885,6 +1994,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/stone_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-18 18:59:53 +0000"
@@ -1927,9 +2042,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-18 20:25:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-18 19:04:41 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-18 20:26:18 +0000"
     },
     "done": true
   },
@@ -1944,9 +2071,11 @@
       "minecraft:taiga": "2025-07-18 19:46:41 +0000",
       "minecraft:birch_forest": "2025-07-18 20:20:45 +0000",
       "minecraft:beach": "2025-07-18 18:52:23 +0000",
+      "minecraft:sparse_jungle": "2025-07-18 20:28:09 +0000",
       "minecraft:river": "2025-07-18 18:59:53 +0000",
       "minecraft:swamp": "2025-07-18 19:04:09 +0000",
       "minecraft:forest": "2025-07-18 18:53:12 +0000",
+      "minecraft:jungle": "2025-07-18 20:27:34 +0000",
       "minecraft:meadow": "2025-07-18 20:21:00 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-18 19:04:51 +0000",
       "minecraft:plains": "2025-07-18 19:04:04 +0000"
@@ -2307,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
@@ -2328,6 +2463,12 @@
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-18 20:25:19 +0000"
     },
     "done": true
   },
@@ -2361,6 +2502,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/misc/blasting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-18 20:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-18 19:40:54 +0000"
@@ -2388,6 +2535,12 @@
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -2715,6 +2868,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-07-18 20:20:21 +0000"
@@ -2859,6 +3018,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-07-18 19:01:34 +0000"
@@ -2880,6 +3045,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-07-18 19:04:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-07-18 20:23:54 +0000"
     },
     "done": true
   },
@@ -2988,6 +3159,12 @@
   "corail_woodcutter:recipes/biomesoplenty/from_jacaranda_planks": {
     "criteria": {
       "has_ingredient": "2025-07-18 18:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -3117,6 +3294,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/basalt_1x": {
+    "criteria": {
+      "has_basalt": "2025-07-18 20:25:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 19:15:21 +0000"
@@ -3243,6 +3426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "sgjourney:recipes/misc/fire_pit": {
     "criteria": {
       "has_coal": "2025-07-18 19:04:30 +0000"
@@ -3282,6 +3471,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 20:26:23 +0000"
     },
     "done": true
   },
@@ -3373,6 +3568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-07-18 19:02:53 +0000"
@@ -3421,8 +3622,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-18 20:25:46 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-07-18 20:25:59 +0000",
       "opened_chest": "2025-07-18 19:15:19 +0000"
     },
     "done": false
@@ -3517,6 +3731,12 @@
   "rftoolsbuilder:recipes/misc/shape_card_def": {
     "criteria": {
       "iron_ingot": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -3646,6 +3866,18 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/basalt_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 20:25:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-18 19:29:09 +0000"
@@ -3661,6 +3893,12 @@
   "modularrouters:recipes/misc/modular_router": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-18 20:25:46 +0000"
     },
     "done": true
   },
@@ -3768,9 +4006,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-07-18 19:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -3942,9 +4192,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-18 19:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },
@@ -4056,6 +4318,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/enchanter": {
     "criteria": {
       "has_ingredient": "2025-07-18 19:43:01 +0000"
@@ -4128,9 +4402,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-07-18 20:21:30 +0000"
+    },
+    "done": true
+  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-07-18 18:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 20:26:23 +0000"
     },
     "done": true
   },
@@ -4143,6 +4435,12 @@
   "corail_woodcutter:recipes/from_spruce_planks": {
     "criteria": {
       "has_ingredient": "2025-07-18 18:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-18 20:21:30 +0000"
     },
     "done": true
   },

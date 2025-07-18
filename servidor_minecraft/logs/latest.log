@@ -2044,3 +2044,15 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18Jul2025 20:23:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Knowledge of Death]
 [18Jul2025 20:23:49.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Funeral Theft]
 [18Jul2025 20:23:54.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Your First Receptacle]
+[18Jul2025 20:25:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Barrel Booty]
+[18Jul2025 20:25:53.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Barrel Booty]
+[18Jul2025 20:25:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Barrel Booty]
+[18Jul2025 20:27:06.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [A Fool's Folly]
+[18Jul2025 20:28:59.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Not Today, Thank You]
+[18Jul2025 20:29:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jul2025 20:29:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jul2025 20:29:15.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fimo0 lost connection: Server closed
+[18Jul2025 20:29:15.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 left the game
+[18Jul2025 20:29:15.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson lost connection: Server closed
+[18Jul2025 20:29:15.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson left the game
+[18Jul2025 20:29:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
