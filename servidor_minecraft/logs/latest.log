@@ -1898,3 +1898,37 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18Jul2025 18:32:46.330] [Server thread/INFO] [Jade/]: Syncing config to Pepenson (8865a0ec-a2eb-44c4-a2cf-4e5440d588ad)
 [18Jul2025 18:34:21.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson lost connection: Disconnected
 [18Jul2025 18:34:21.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson left the game
+[18Jul2025 18:35:15.243] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fimo0 is b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa
+[18Jul2025 18:35:27.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fimo0[/127.243.5.175:40311] logged in with entity id 1335 at (247.5, 67.0, -143.5)
+[18Jul2025 18:35:27.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 joined the game
+[18Jul2025 18:35:28.159] [Server thread/INFO] [Jade/]: Syncing config to Fimo0 (b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa)
+[18Jul2025 18:35:28.258] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[18Jul2025 18:35:28.259] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[18Jul2025 18:36:37.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fimo0 lost connection: Disconnected
+[18Jul2025 18:36:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 left the game
+[18Jul2025 18:38:13.040] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MsTrance is 54c75a27-f472-4df5-8250-2460ed71d719
+[18Jul2025 18:38:25.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MsTrance[/127.68.39.133:33463] logged in with entity id 1491 at (236.5, 64.0, -150.5)
+[18Jul2025 18:38:25.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance joined the game
+[18Jul2025 18:38:25.658] [Server thread/INFO] [Jade/]: Syncing config to MsTrance (54c75a27-f472-4df5-8250-2460ed71d719)
+[18Jul2025 18:38:42.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance was slain by Zombie
+[18Jul2025 18:38:42.312] [Server thread/INFO] [tombstone/]: The player MsTrance has successfully been saved
+[18Jul2025 18:39:15.978] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 18:39:29.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has reached the goal [Here They Come]
+[18Jul2025 18:40:06.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Monster Hunter]
+[18Jul2025 18:43:36.296] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepenson is 8865a0ec-a2eb-44c4-a2cf-4e5440d588ad
+[18Jul2025 18:43:48.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepenson[/127.48.179.90:41933] logged in with entity id 2197 at (246.9474204840428, 67.0, -152.37251571743744)
+[18Jul2025 18:43:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson joined the game
+[18Jul2025 18:43:48.904] [Server thread/INFO] [Jade/]: Syncing config to Pepenson (8865a0ec-a2eb-44c4-a2cf-4e5440d588ad)
+[18Jul2025 18:45:22.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson lost connection: Disconnected
+[18Jul2025 18:45:22.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson left the game
+[18Jul2025 18:51:43.827] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fimo0 is b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa
+[18Jul2025 18:51:56.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fimo0[/127.243.5.175:43175] logged in with entity id 3434 at (249.31022995925767, 67.0, -153.09928997703528)
+[18Jul2025 18:51:56.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 joined the game
+[18Jul2025 18:51:56.528] [Server thread/INFO] [Jade/]: Syncing config to Fimo0 (b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa)
+[18Jul2025 18:52:10.189] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Killerprank125 is f41d5ed6-ba9c-4c2e-9a74-6ef873169d2d
+[18Jul2025 18:52:22.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Killerprank125[/127.105.65.21:54727] logged in with entity id 3485 at (248.5, 67.0, -144.5)
+[18Jul2025 18:52:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 joined the game
+[18Jul2025 18:52:22.930] [Server thread/INFO] [Jade/]: Syncing config to Killerprank125 (f41d5ed6-ba9c-4c2e-9a74-6ef873169d2d)
+[18Jul2025 18:53:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 was shot by Skeleton
+[18Jul2025 18:53:34.628] [Server thread/INFO] [tombstone/]: The player Killerprank125 has successfully been saved
+[18Jul2025 18:53:36.574] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
