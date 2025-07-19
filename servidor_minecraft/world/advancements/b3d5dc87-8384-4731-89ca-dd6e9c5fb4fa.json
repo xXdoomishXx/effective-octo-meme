@@ -9128,6 +9128,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2025-07-19 02:54:01 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/manual_compressor": {
     "criteria": {
       "has_pressure_tube": "2025-07-19 02:23:02 +0000"
@@ -9155,6 +9161,12 @@
   "mythicbotany:recipes/misc/central_rune_holder": {
     "criteria": {
       "criterion0": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-19 02:57:19 +0000"
     },
     "done": true
   },
@@ -9284,6 +9296,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2025-07-19 02:54:04 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/emerald_chain": {
     "criteria": {
       "recipe_condition": "2025-07-19 02:40:38 +0000"
@@ -9329,6 +9347,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2025-07-19 02:54:01 +0000"
     },
     "done": true
   },

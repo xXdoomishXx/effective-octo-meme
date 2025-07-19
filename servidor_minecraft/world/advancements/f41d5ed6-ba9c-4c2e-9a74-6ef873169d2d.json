@@ -7784,25 +7784,49 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-07-19 02:09:14 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
-    "criteria": {
-      "has_crimson_iron_ingot": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/alkahestry_altar": {
-    "criteria": {
-      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/building_blocks/compressed_brick_tile_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_tile_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_pillar_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-07-19 02:08:13 +0000"
     },
@@ -7814,105 +7838,27 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/manual_compressor": {
+  "apotheosis:spawner/capturing": {
     "criteria": {
-      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+      "egg": "2025-07-19 02:08:30 +0000"
     },
     "done": true
   },
-  "reliquary:recipes/misc/crimson_cloth": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+      "has_spider_eye": "2025-07-19 02:08:30 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_tile_stonecutting": {
+  "rftoolspower:recipes/rftoolspower/power_core1": {
     "criteria": {
-      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+      "core": "2025-07-19 02:08:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_golden_boots": "2025-07-19 02:36:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
-    "criteria": {
-      "has_logs": "2025-07-19 02:51:05 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/air_cannon": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-19 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "silentgear:crimson_iron": {
-    "criteria": {
-      "get_ingot": "2025-07-19 02:36:07 +0000"
-    },
-    "done": false
-  },
-  "reliquary:recipes/mob_charm": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-07-19 02:34:42 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-07-19 02:36:14 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_nugget": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:evil_source": {
-    "criteria": {
-      "criteria_0": "2025-07-19 02:10:08 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/tube_junction": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/salvager": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+      "has_coal_block": "2025-07-19 02:09:14 +0000"
     },
     "done": true
   },
@@ -7922,45 +7868,105 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/ender_pearl": {
-    "criteria": {
-      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "golden_knife": "2025-07-19 02:36:14 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/fortune_coin": {
-    "criteria": {
-      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-07-19 02:26:52 +0000"
-    },
-    "done": true
-  },
   "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
     "criteria": {
       "has_item": "2025-07-19 02:09:14 +0000"
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
+    "criteria": {
+      "has_coal_block": "2025-07-19 02:09:14 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-07-19 02:10:08 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/spawner_extractor": {
+    "criteria": {
+      "has_spawner_agitator": "2025-07-19 02:24:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/manual_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_cannon": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/tube_junction": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/air_compressor": {
     "criteria": {
       "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_station": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_grate_module": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-19 02:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-19 02:24:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
     },
     "done": true
   },
@@ -7976,21 +7982,9 @@
     },
     "done": true
   },
-  "apotheosis:spawner/capturing": {
-    "criteria": {
-      "egg": "2025-07-19 02:08:30 +0000"
-    },
-    "done": true
-  },
   "reliquary:recipes/misc/angelic_feather": {
     "criteria": {
       "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/charging_station": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
     },
     "done": true
   },
@@ -8006,141 +8000,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-07-19 02:36:14 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/air_grate_module": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
-    "criteria": {
-      "has_log": "2025-07-19 02:51:05 +0000"
-    },
-    "done": true
-  },
-  "croptopia:knife": {
-    "criteria": {
-      "knife": "2025-07-19 02:36:14 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-07-19 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_dust": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-07-19 02:08:30 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_belt": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-07-19 02:34:42 +0000"
-    },
-    "done": true
-  },
-  "silentgear:nether_plants": {
-    "criteria": {
-      "sapling": "2025-07-19 02:36:14 +0000"
-    },
-    "done": false
-  },
-  "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-07-19 02:36:15 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_pillar_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-07-19 02:29:14 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_steel_ingot": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
   "reliquary:recipes/misc/magicbane": {
     "criteria": {
       "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-07-19 02:08:13 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_block": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
-    "criteria": {
-      "has_coal_block": "2025-07-19 02:09:14 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_dust_smelting": {
-    "criteria": {
-      "has_item": "2025-07-19 02:36:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:pressure_tube": {
-    "criteria": {
-      "0": "2025-07-19 02:24:14 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/spawner_extractor": {
-    "criteria": {
-      "has_spawner_agitator": "2025-07-19 02:24:13 +0000"
     },
     "done": true
   },
@@ -8150,15 +8012,231 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-19 02:26:52 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-07-19 02:29:11 +0000"
     },
     "done": true
   },
-  "rftoolspower:recipes/rftoolspower/power_core1": {
+  "ars_nouveau:warp_scroll": {
     "criteria": {
-      "core": "2025-07-19 02:08:30 +0000"
+      "has_warp_scroll": "2025-07-19 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-07-19 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-07-19 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
+    "criteria": {
+      "has_crimson_iron_ingot": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-07-19 02:36:07 +0000"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/salvager": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-07-19 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-07-19 02:36:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-07-19 02:36:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-07-19 02:36:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-07-19 02:36:14 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-07-19 02:36:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-07-19 02:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-07-19 02:36:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 02:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 02:51:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-19 02:55:26 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energized_gear": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_bimetal_gear": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/holy_hand_grenade": {
+    "criteria": {
+      "has_glowing_water": "2025-07-19 02:56:47 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_bread": {
+    "criteria": {
+      "has_glowing_water": "2025-07-19 02:56:47 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/pulsating_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:56 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/pulsating_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:56 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/pulsating_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:56 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_1": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_filter_base": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:56:58 +0000"
     },
     "done": true
   },
