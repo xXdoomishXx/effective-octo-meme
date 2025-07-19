@@ -7537,6 +7537,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-07-19 20:21:03 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/andesite_1x": {
     "criteria": {
       "has_andesite": "2025-07-19 18:27:28 +0000"
@@ -7546,6 +7552,12 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-07-19 19:16:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-07-19 20:22:41 +0000"
     },
     "done": true
   },
@@ -7762,6 +7774,12 @@
   "alltheores:recipes/misc/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
     },
     "done": true
   },
@@ -8011,6 +8029,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-19 19:02:30 +0000"
@@ -8071,9 +8095,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_comparator": "2025-07-19 20:22:41 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
     },
     "done": true
   },
@@ -8308,6 +8344,12 @@
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
     },
     "done": true
   },
@@ -8710,6 +8752,12 @@
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
     },
     "done": true
   },
@@ -9295,6 +9343,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 18:27:28 +0000"
@@ -9583,6 +9637,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/diamond_shard": {
     "criteria": {
       "has_item": "2025-07-19 18:36:43 +0000"
@@ -9601,6 +9661,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-19 19:02:30 +0000"
@@ -9610,6 +9676,12 @@
   "constructionwand:recipes/tools/infinity_wand": {
     "criteria": {
       "has_item": "2025-07-19 18:36:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
     },
     "done": true
   },
@@ -9763,6 +9835,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-07-19 20:21:03 +0000"
+    },
+    "done": true
+  },
   "packingtape:recipes/tools/tape": {
     "criteria": {
       "has_slime_ball": "2025-07-19 19:04:15 +0000"
@@ -9832,6 +9910,12 @@
   "alltheores:recipes/misc/copper_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 20:21:03 +0000"
     },
     "done": true
   },
