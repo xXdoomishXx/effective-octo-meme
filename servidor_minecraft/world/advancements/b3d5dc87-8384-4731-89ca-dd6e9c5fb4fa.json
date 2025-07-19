@@ -12211,6 +12211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-19 23:30:32 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_advanced": {
     "criteria": {
       "has_components": "2025-07-19 23:20:36 +0000"
