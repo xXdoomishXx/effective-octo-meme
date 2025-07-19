@@ -1961,3 +1961,12 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 02:07:44.337] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 12.68 ms. 17786/19096 recipes are parallelized.
 [19Jul2025 02:08:30.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Captured!]
 [19Jul2025 02:10:08.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [A True Source of Evil]
+[19Jul2025 02:11:16.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19Jul2025 02:11:23.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Hot Stuff]
+[19Jul2025 02:11:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Survival Mode]
+[19Jul2025 02:13:45.442] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[19Jul2025 02:13:45.443] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[19Jul2025 02:17:21.854] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:blasting in 120.0 μs. 233/233 recipes are parallelized.
+[19Jul2025 02:20:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Creative Mode]
+[19Jul2025 02:20:58.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[19Jul2025 02:21:18.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind

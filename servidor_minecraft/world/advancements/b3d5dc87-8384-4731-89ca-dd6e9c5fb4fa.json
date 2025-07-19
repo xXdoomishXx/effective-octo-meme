@@ -40,6 +40,7 @@
       "minecraft:windswept_forest": "2025-07-18 22:59:20 +0000",
       "minecraft:jungle": "2025-07-18 20:26:01 +0000",
       "minecraft:ocean": "2025-07-18 22:36:30 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-19 02:13:33 +0000",
       "minecraft:meadow": "2025-07-18 20:20:58 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-18 19:07:09 +0000",
       "minecraft:plains": "2025-07-18 19:05:35 +0000"
@@ -2816,6 +2817,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-07-18 19:11:14 +0000",
+      "maple_woods": "2025-07-19 02:11:00 +0000",
       "field": "2025-07-18 19:41:45 +0000",
       "orchard": "2025-07-18 19:23:15 +0000",
       "overgrown_greens": "2025-07-18 20:18:55 +0000",

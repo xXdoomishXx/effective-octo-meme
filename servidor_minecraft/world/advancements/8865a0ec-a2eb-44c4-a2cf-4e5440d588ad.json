@@ -2094,6 +2094,7 @@
       "maple_woods": "2025-07-18 19:40:13 +0000",
       "field": "2025-07-18 19:44:46 +0000",
       "orchard": "2025-07-18 19:22:50 +0000",
+      "overgrown_greens": "2025-07-19 02:11:16 +0000",
       "coniferous_forest": "2025-07-18 19:14:13 +0000",
       "forested_field": "2025-07-18 19:47:02 +0000",
       "redwood_forest": "2025-07-18 19:22:17 +0000",
@@ -7548,6 +7549,54 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-07-19 01:55:57 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 02:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-19 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-07-19 02:07:47 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_fluid_filter": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:10:45 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-07-19 02:10:45 +0000"
     },
     "done": true
   },
