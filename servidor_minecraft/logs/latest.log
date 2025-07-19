@@ -1993,3 +1993,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 19:42:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [A Terrible Fortress]
 [19Jul2025 19:42:52.503] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/35589, l='ServerLevel[world]', x=139.00, y=31.00, z=-342.00] as it would cause deadlock
 [19Jul2025 19:58:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Voluntary Exile]
+[19Jul2025 20:35:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [The Brass Age]
