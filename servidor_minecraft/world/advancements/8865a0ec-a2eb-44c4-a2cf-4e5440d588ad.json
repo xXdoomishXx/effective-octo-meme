@@ -12180,6 +12180,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
+    "criteria": {
+      "shard": "2025-07-19 19:00:43 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_cherenkov_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
@@ -12243,6 +12249,12 @@
   "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
     "criteria": {
       "has_witch_hat": "2025-07-19 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/moduleplus_template": {
+    "criteria": {
+      "dimshards": "2025-07-19 19:00:43 +0000"
     },
     "done": true
   },
@@ -12324,6 +12336,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/module_template": {
+    "criteria": {
+      "dimshards": "2025-07-19 19:00:43 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_peach_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
@@ -12393,6 +12411,12 @@
   "dyenamics:recipes/misc/dye_bubblegum_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
+    "criteria": {
+      "shard": "2025-07-19 19:00:43 +0000"
     },
     "done": true
   },

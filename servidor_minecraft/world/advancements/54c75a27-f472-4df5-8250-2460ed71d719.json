@@ -7491,6 +7491,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
@@ -7521,9 +7527,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/rs_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-07-19 18:08:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7536,6 +7554,12 @@
   "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-07-19 18:10:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7575,9 +7599,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "createoreexcavation:recipes/misc/diamond_drill": {
     "criteria": {
       "diamond": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7593,9 +7635,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
     "criteria": {
       "shard": "2025-07-19 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7689,6 +7743,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-07-19 18:28:20 +0000"
@@ -7698,6 +7758,12 @@
   "allthetweaks:recipes/misc/nether_star_block": {
     "criteria": {
       "has_nether_star": "2025-07-19 18:36:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7731,6 +7797,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/fine_silk": {
     "criteria": {
       "has_item": "2025-07-19 18:27:15 +0000"
@@ -7746,6 +7830,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7779,6 +7869,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/diamond_shears": {
     "criteria": {
       "criterion0": "2025-07-19 18:36:43 +0000"
@@ -7806,6 +7902,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7839,6 +7941,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-19 18:58:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-07-19 18:10:36 +0000"
@@ -7848,6 +7956,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -7890,6 +8004,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8061,6 +8187,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
@@ -8070,6 +8202,12 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8088,6 +8226,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8139,6 +8283,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
@@ -8175,9 +8331,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8193,6 +8361,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/module_template": {
     "criteria": {
       "dimshards": "2025-07-19 18:02:07 +0000"
@@ -8202,6 +8376,18 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8229,6 +8415,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
@@ -8250,6 +8442,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-19 18:59:24 +0000"
     },
     "done": true
   },
@@ -8283,6 +8481,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
@@ -8307,6 +8511,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/diamond_shard": {
     "criteria": {
       "has_item": "2025-07-19 18:36:43 +0000"
@@ -8325,6 +8535,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/piston_controller_rail": {
     "criteria": {
       "criterion1": "2025-07-19 18:08:53 +0000"
@@ -8340,6 +8562,12 @@
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8397,9 +8625,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8412,6 +8652,12 @@
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8439,6 +8685,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-19 18:27:28 +0000"
@@ -8448,6 +8700,12 @@
   "silentgear:recipes/misc/diamond_from_shards": {
     "criteria": {
       "has_item": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
@@ -8475,9 +8733,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
     "criteria": {
       "shard": "2025-07-19 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 18:58:22 +0000"
     },
     "done": true
   },
