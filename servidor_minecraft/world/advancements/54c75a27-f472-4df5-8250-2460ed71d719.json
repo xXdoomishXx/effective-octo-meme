@@ -4969,6 +4969,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 02:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-19 02:04:45 +0000"
@@ -5017,6 +5023,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-07-19 02:41:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-19 02:04:45 +0000"
@@ -5026,6 +5038,42 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-19 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-07-19 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-19 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-07-19 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-07-19 02:39:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 02:39:35 +0000"
     },
     "done": true
   },
@@ -5047,6 +5095,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-19 02:41:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-19 02:04:45 +0000"
@@ -5059,9 +5113,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-07-19 02:39:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-19 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 02:39:35 +0000"
     },
     "done": true
   },
@@ -5071,9 +5137,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-19 02:32:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-19 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-19 02:41:02 +0000"
     },
     "done": true
   },
@@ -5098,6 +5176,18 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-19 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 02:41:02 +0000"
     },
     "done": true
   },

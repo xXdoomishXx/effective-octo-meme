@@ -1993,3 +1993,23 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 02:31:19.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Survival Mode]
 [19Jul2025 02:32:03.283] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set 9-Chevron Address to -30-1-12-27-18-7-16-26-
 [19Jul2025 02:32:03.284] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Stargate -30-1-12-27-18-7-16-26- to BlockEntityList
+[19Jul2025 02:32:12.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [A Strange Grave Dust]
+[19Jul2025 02:32:19.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pizinito lost connection: Disconnected
+[19Jul2025 02:32:19.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito left the game
+[19Jul2025 02:32:24.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Creative Mode]
+[19Jul2025 02:32:48.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Survival Mode]
+[19Jul2025 02:32:57.136] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[19Jul2025 02:32:57.136] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[19Jul2025 02:33:15.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Jul2025 02:36:00.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Creative Mode]
+[19Jul2025 02:36:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Hunt and Gather]
+[19Jul2025 02:36:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Iron Torch]
+[19Jul2025 02:36:22.664] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Jul2025 02:36:24.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Where Is The Stone Pen?]
+[19Jul2025 02:36:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Survival Mode]
+[19Jul2025 02:40:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Ambush]
+[19Jul2025 02:42:58.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has completed the challenge [Centennial]
+[19Jul2025 02:46:28.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 was eviscerated by Archevoker's vexes
+[19Jul2025 02:46:28.318] [Server thread/INFO] [tombstone/]: The player Fimo0 has successfully been saved
+[19Jul2025 02:46:31.082] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 02:46:43.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has reached the goal [Here They Come]

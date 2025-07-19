@@ -43,6 +43,7 @@
       "minecraft:old_growth_birch_forest": "2025-07-19 02:13:33 +0000",
       "minecraft:meadow": "2025-07-18 20:20:58 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-18 19:07:09 +0000",
+      "minecraft:savanna": "2025-07-19 02:33:49 +0000",
       "minecraft:plains": "2025-07-18 19:05:35 +0000"
     },
     "done": false
@@ -2817,16 +2818,19 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-07-18 19:11:14 +0000",
+      "jacaranda_glade": "2025-07-19 02:32:56 +0000",
       "maple_woods": "2025-07-19 02:11:00 +0000",
       "field": "2025-07-18 19:41:45 +0000",
       "orchard": "2025-07-18 19:23:15 +0000",
       "overgrown_greens": "2025-07-18 20:18:55 +0000",
+      "mediterranean_forest": "2025-07-19 02:33:13 +0000",
       "coniferous_forest": "2025-07-18 19:12:11 +0000",
       "forested_field": "2025-07-18 19:45:51 +0000",
       "redwood_forest": "2025-07-18 19:23:37 +0000",
       "aspen_glade": "2025-07-19 02:20:38 +0000",
       "dune_beach": "2025-07-18 22:36:16 +0000",
       "seasonal_forest": "2025-07-18 19:21:51 +0000",
+      "lavender_field": "2025-07-19 02:32:09 +0000",
       "fir_clearing": "2025-07-18 19:11:41 +0000",
       "pumpkin_patch": "2025-07-18 19:20:43 +0000",
       "prairie": "2025-07-18 20:02:48 +0000",
@@ -2944,9 +2948,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-19 02:50:09 +0000",
       "minecraft:skeleton": "2025-07-18 19:16:21 +0000",
+      "minecraft:ravager": "2025-07-19 02:40:07 +0000",
       "minecraft:spider": "2025-07-18 19:12:28 +0000",
       "minecraft:silverfish": "2025-07-18 22:22:43 +0000",
+      "minecraft:vex": "2025-07-19 02:43:18 +0000",
       "minecraft:zombie": "2025-07-18 19:13:03 +0000"
     },
     "done": false
@@ -9127,9 +9134,39 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-07-19 02:36:15 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/air_cannon": {
     "criteria": {
       "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/linked_crystal": {
+    "criteria": {
+      "criterion1": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/central_rune_holder": {
+    "criteria": {
+      "criterion0": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/experience_crystal": {
+    "criteria": {
+      "criterion1": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-07-19 02:36:15 +0000"
     },
     "done": true
   },
@@ -9139,9 +9176,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-07-19 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-07-19 02:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-19 02:43:44 +0000"
     },
     "done": true
   },
@@ -9151,9 +9218,33 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/stone_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/charging_station": {
     "criteria": {
       "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-07-19 02:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
     },
     "done": true
   },
@@ -9163,9 +9254,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-07-19 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-07-19 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/emerald_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-19 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-07-19 02:36:15 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:pressure_tube": {
     "criteria": {
       "0": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2025-07-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-19 02:36:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-19 02:43:44 +0000"
     },
     "done": true
   },
