@@ -1975,3 +1975,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 18:19:05.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance fell from a high place
 [19Jul2025 18:19:05.084] [Server thread/INFO] [tombstone/]: The player MsTrance has successfully been saved
 [19Jul2025 18:19:06.436] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 18:20:49.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['His Holiness Onbing the Gorilla Slaughterer'/15239, l='ServerLevel[world]', x=268.98, y=62.48, z=-249.74] died: His Holiness Onbing the Gorilla Slaughterer was slain by Pepenson
+[19Jul2025 18:22:08.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/14845, l='ServerLevel[world]', x=367.12, y=71.41, z=-121.01] died: Undead Knight suffocated in a wall
+[19Jul2025 18:23:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson was shot by Skeleton
+[19Jul2025 18:23:17.337] [Server thread/INFO] [tombstone/]: The player Pepenson has successfully been saved
+[19Jul2025 18:23:22.268] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 18:24:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Not Today, Thank You]
+[19Jul2025 18:24:30.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17731, l='ServerLevel[world]', x=587.06, y=93.41, z=-562.84] died: Undead Knight suffocated in a wall
