@@ -5259,7 +5259,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-07-19 03:09:05 +0000"
+      "potato": "2025-07-19 03:09:05 +0000",
+      "melon": "2025-07-19 17:51:27 +0000"
     },
     "done": false
   },
@@ -6943,18 +6944,6 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-07-19 05:57:08 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_cyan_double": {
-    "criteria": {
-      "has_item": "2025-07-19 06:03:31 +0000"
-    },
-    "done": true
-  },
   "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
     "criteria": {
       "has_hay_block": "2025-07-19 05:33:26 +0000"
@@ -6964,6 +6953,180 @@
   "pylons:recipes/misc/harvester_pylon": {
     "criteria": {
       "has_hay_block": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shield": {
+    "criteria": {
+      "has_shield": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:33:26 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-07-19 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_entropinnyum": {
+    "criteria": {
+      "has_item": "2025-07-19 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-07-19 05:50:40 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-07-19 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-07-19 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-07-19 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-07-19 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-07-19 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 05:57:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-07-19 05:57:13 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
+    "criteria": {
+      "has_grass_block": "2025-07-19 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-07-19 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-07-19 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 05:59:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-07-19 05:59:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-07-19 05:59:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 05:59:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_item": "2025-07-19 05:59:37 +0000"
     },
     "done": true
   },
@@ -6979,39 +7142,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/flower_bag": {
-    "criteria": {
-      "has_item": "2025-07-19 05:57:08 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/shield": {
-    "criteria": {
-      "has_shield": "2025-07-19 05:33:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/purple_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 05:58:28 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_orange": {
-    "criteria": {
-      "has_item": "2025-07-19 06:03:59 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-07-19 05:33:26 +0000"
     },
     "done": true
   },
@@ -7021,45 +7154,15 @@
     },
     "done": true
   },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-07-19 05:57:08 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/light_gray_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 05:59:04 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 06:03:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-07-19 06:08:02 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
-    "criteria": {
-      "has_grass_block": "2025-07-19 05:58:20 +0000"
     },
     "done": true
   },
@@ -7093,45 +7196,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/pink_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 06:06:09 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/gray_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 05:57:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_green": {
-    "criteria": {
-      "has_item": "2025-07-19 05:59:29 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_orange_double": {
-    "criteria": {
-      "has_item": "2025-07-19 06:04:40 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray": {
-    "criteria": {
-      "has_item": "2025-07-19 05:59:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:33:26 +0000"
     },
     "done": true
   },
@@ -7159,45 +7226,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_red": {
-    "criteria": {
-      "has_item": "2025-07-19 06:04:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-19 05:33:26 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2025-07-19 05:57:08 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:33:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_pink": {
-    "criteria": {
-      "has_item": "2025-07-19 06:06:09 +0000"
     },
     "done": true
   },
@@ -7219,30 +7256,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/green_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 05:59:29 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_gray": {
-    "criteria": {
-      "has_item": "2025-07-19 05:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-07-19 06:06:18 +0000"
-    },
-    "done": true
-  },
-  "mekanismtools:alternate_tools": {
-    "criteria": {
-      "tools": "2025-07-19 05:50:40 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
@@ -7261,51 +7274,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_light_blue": {
-    "criteria": {
-      "has_item": "2025-07-19 06:03:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/red_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 06:04:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:33:26 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_green_double": {
-    "criteria": {
-      "has_item": "2025-07-19 05:59:37 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/orange_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 06:03:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/black_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-07-19 05:57:08 +0000"
     },
     "done": true
   },
@@ -7321,57 +7298,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-07-19 05:33:26 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2025-07-19 05:33:26 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_purple_double": {
-    "criteria": {
-      "has_item": "2025-07-19 06:03:13 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2025-07-19 05:58:20 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-19 06:01:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_purple": {
-    "criteria": {
-      "has_item": "2025-07-19 05:58:28 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_black": {
-    "criteria": {
-      "has_item": "2025-07-19 05:57:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_5_from_backpack_stack_upgrade_tier_4": {
-    "criteria": {
-      "has_backpack_stack_upgrade": "2025-07-19 06:08:25 +0000"
     },
     "done": true
   },
@@ -7393,9 +7328,87 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
-      "has_stack_upgrade_tier_4": "2025-07-19 06:08:25 +0000"
+      "has_boat": "2025-07-19 06:01:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple_double": {
+    "criteria": {
+      "has_item": "2025-07-19 06:03:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan_double": {
+    "criteria": {
+      "has_item": "2025-07-19 06:03:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 06:03:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2025-07-19 06:03:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange": {
+    "criteria": {
+      "has_item": "2025-07-19 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_item": "2025-07-19 06:04:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2025-07-19 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 06:04:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 06:06:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2025-07-19 06:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-19 06:06:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-19 06:08:02 +0000"
     },
     "done": true
   },
@@ -7405,27 +7418,147 @@
     },
     "done": true
   },
-  "botania:main/generating_flower": {
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_5_from_backpack_stack_upgrade_tier_4": {
     "criteria": {
-      "flower": "2025-07-19 05:46:33 +0000"
+      "has_backpack_stack_upgrade": "2025-07-19 06:08:25 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/floating_entropinnyum": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
     "criteria": {
-      "has_item": "2025-07-19 05:46:33 +0000"
+      "has_stack_upgrade_tier_4": "2025-07-19 06:08:25 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+  "botania:recipes/decorations/apothecary_deepslate": {
     "criteria": {
-      "has_boat": "2025-07-19 06:01:06 +0000"
+      "has_item": "2025-07-19 17:52:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
-      "has_hay_block": "2025-07-19 05:33:26 +0000"
+      "has_raw_nickel": "2025-07-19 18:02:30 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
+    "criteria": {
+      "shard": "2025-07-19 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_magenta": {
+    "criteria": {
+      "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/magenta_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_alt_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "sturdy_repair_kit": "2025-07-19 17:51:50 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/moduleplus_template": {
+    "criteria": {
+      "dimshards": "2025-07-19 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 18:02:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-07-19 17:48:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/module_template": {
+    "criteria": {
+      "dimshards": "2025-07-19 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 18:02:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-07-19 17:51:27 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
+    "criteria": {
+      "shard": "2025-07-19 18:02:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-07-19 18:02:30 +0000"
     },
     "done": true
   },
