@@ -12232,6 +12232,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/misc/smelting/yellorium_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 22:07:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-07-19 21:17:14 +0000"
@@ -12277,6 +12283,12 @@
   "reliquary:recipes/misc/gold_nugget": {
     "criteria": {
       "has_empty_bullet": "2025-07-19 18:40:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/dark_steel_sword": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
     },
     "done": true
   },
@@ -12454,6 +12466,12 @@
     },
     "done": true
   },
+  "enderio:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-07-19 21:17:14 +0000"
@@ -12622,9 +12640,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
+    "criteria": {
+      "has_darkstone": "2025-07-19 22:07:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2025-07-19 20:35:27 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
     },
     "done": true
   },
@@ -12868,6 +12898,12 @@
     },
     "done": true
   },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_thirty_inv": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
@@ -12976,6 +13012,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_lead_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-07-19 19:11:59 +0000"
@@ -13021,6 +13063,12 @@
   "allthecompressed:recipes/building_blocks/compress/stone_1x": {
     "criteria": {
       "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
     },
     "done": true
   },
@@ -13096,9 +13144,21 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/dark_steel_door": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-19 22:04:52 +0000"
     },
     "done": true
   },
@@ -13126,6 +13186,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/misc/blasting/yellorium_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 22:07:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-07-19 21:17:16 +0000"
@@ -13147,6 +13213,12 @@
   "dyenamics:recipes/misc/dye_navy_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/crafting/raw_yellorium_component_to_storage": {
+    "criteria": {
+      "has_item": "2025-07-19 22:07:42 +0000"
     },
     "done": true
   },
@@ -13192,6 +13264,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-19 22:04:52 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/red_flag": {
     "criteria": {
       "has_red_flag": "2025-07-19 21:17:16 +0000"
@@ -13201,6 +13279,12 @@
   "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-07-19 22:12:58 +0000"
     },
     "done": true
   },
@@ -13366,6 +13450,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/dark_steel_bars": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/glass_bottle": {
     "criteria": {
       "has_witch_hat": "2025-07-19 18:21:08 +0000"
@@ -13375,6 +13465,12 @@
   "alltheores:recipes/misc/lead_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
     },
     "done": true
   },
@@ -13465,6 +13561,12 @@
   "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
     },
     "done": true
   },
@@ -13642,6 +13744,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 22:26:16 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_red_industrial_lamp": {
     "criteria": {
       "has_small_red_industrial_lamp": "2025-07-19 21:17:14 +0000"
@@ -13672,6 +13780,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-19 22:26:00 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_green": {
     "criteria": {
       "nugget": "2025-07-19 20:14:03 +0000"
@@ -13687,6 +13801,12 @@
   "alltheores:recipes/misc/platinum_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-19 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-07-19 22:03:53 +0000"
     },
     "done": true
   },
@@ -13729,6 +13849,12 @@
   "utilitix:recipes/misc/stone_wall": {
     "criteria": {
       "criterion0": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/arcane_chiseled_darkstone": {
+    "criteria": {
+      "has_darkstone": "2025-07-19 22:07:37 +0000"
     },
     "done": true
   },

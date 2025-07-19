@@ -7500,6 +7500,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-07-19 22:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-07-19 20:36:28 +0000"
@@ -7552,6 +7558,12 @@
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -7621,6 +7633,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-07-19 22:03:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
@@ -7630,6 +7648,12 @@
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-07-19 22:03:52 +0000"
     },
     "done": true
   },
@@ -7660,6 +7684,12 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-07-19 22:03:52 +0000"
     },
     "done": true
   },
@@ -7708,6 +7738,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 19:01:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-07-19 22:03:52 +0000"
     },
     "done": true
   },
@@ -7900,6 +7936,12 @@
   "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -8203,6 +8245,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-19 22:04:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-07-19 22:03:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
       "has_item": "2025-07-19 17:52:37 +0000"
@@ -8218,6 +8272,12 @@
   "botania:recipes/decorations/magenta_shiny_flower": {
     "criteria": {
       "has_item": "2025-07-19 20:53:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -8383,6 +8443,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 22:03:51 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
@@ -8404,6 +8470,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 19:01:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -8446,6 +8518,12 @@
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -8494,6 +8572,12 @@
   "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 19:01:54 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-07-19 22:07:23 +0000"
     },
     "done": true
   },
@@ -8557,6 +8641,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-07-19 22:03:52 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/angel_block_rot": {
     "criteria": {
       "has_gold": "2025-07-19 19:01:54 +0000"
@@ -8614,6 +8704,12 @@
   "rftoolsbase:recipes/rftoolsbase/tablet": {
     "criteria": {
       "quartz": "2025-07-19 19:49:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 22:02:13 +0000"
     },
     "done": true
   },
@@ -8680,6 +8776,12 @@
   "immersiveengineering:recipes/misc/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 22:13:49 +0000"
     },
     "done": true
   },
@@ -8788,6 +8890,12 @@
   "ae2additions:recipes/misc/blocks/wireless_transceiver": {
     "criteria": {
       "has_diamond": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -8965,6 +9073,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 22:03:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-19 18:36:43 +0000"
@@ -9103,9 +9217,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 22:13:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/green_petal_block": {
     "criteria": {
       "has_item": "2025-07-19 21:52:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-07-19 22:03:52 +0000"
     },
     "done": true
   },
@@ -9247,6 +9373,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-07-19 22:13:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-07-19 18:28:20 +0000"
@@ -9325,6 +9457,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 22:13:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 19:01:54 +0000"
@@ -9346,6 +9484,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 22:13:49 +0000"
     },
     "done": true
   },
@@ -9424,6 +9568,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-19 22:04:28 +0000"
     },
     "done": true
   },
@@ -9565,6 +9715,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-07-19 22:13:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
@@ -9598,6 +9754,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-19 19:49:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -9721,6 +9883,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2025-07-19 22:13:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 18:43:13 +0000"
@@ -9814,6 +9982,12 @@
   "immersiveengineering:recipes/misc/crafting/redstone_acid": {
     "criteria": {
       "has_redstone_dust": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-07-19 22:13:48 +0000"
     },
     "done": true
   },
@@ -10171,6 +10345,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 22:13:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
@@ -10315,6 +10495,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_gray": {
+    "criteria": {
+      "has_item": "2025-07-19 22:04:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:31 +0000"
@@ -10354,6 +10540,12 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-19 22:04:28 +0000"
     },
     "done": true
   },

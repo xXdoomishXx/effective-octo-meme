@@ -2024,3 +2024,15 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 21:36:26.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 0.6383839460690979
 [19Jul2025 21:56:23.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/66034, l='ServerLevel[world]', x=628.21, y=82.62, z=-575.87] died: Honeyed Archer suffocated in a wall
 [19Jul2025 22:03:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Mine Turtle!]
+[19Jul2025 22:25:38.128] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Jul2025 22:25:54.188] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Jul2025 22:26:00.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Where Is The Stone Pen?]
+[19Jul2025 22:26:48.517] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Fimo0 is b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa
+[19Jul2025 22:27:00.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fimo0[/127.243.5.175:54593] logged in with entity id 76202 at (809.634037112212, -31.0, -26.419022002252653)
+[19Jul2025 22:27:01.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 joined the game
+[19Jul2025 22:27:01.166] [Server thread/INFO] [Jade/]: Syncing config to Fimo0 (b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa)
+[19Jul2025 22:31:32.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Viscount Vincent the Ghost Hunter'/77436, l='ServerLevel[world]', x=703.35, y=-57.00, z=-576.63] died: Viscount Vincent the Ghost Hunter was slain by Pepenson
+[19Jul2025 22:33:09.549] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pizinito is 96760c96-9e29-46ef-8caf-8742f8282e1e
+[19Jul2025 22:33:22.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pizinito[/127.108.127.141:40623] logged in with entity id 78719 at (1495.0405240383266, 65.0, 225.84163530394034)
+[19Jul2025 22:33:22.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito joined the game
+[19Jul2025 22:33:22.234] [Server thread/INFO] [Jade/]: Syncing config to Pizinito (96760c96-9e29-46ef-8caf-8742f8282e1e)
