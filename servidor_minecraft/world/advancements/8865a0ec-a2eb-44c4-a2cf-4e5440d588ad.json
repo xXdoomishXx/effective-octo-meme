@@ -2134,6 +2134,7 @@
       "minecraft:blaze": "2025-07-19 06:04:58 +0000",
       "minecraft:pillager": "2025-07-19 19:16:37 +0000",
       "minecraft:skeleton": "2025-07-18 19:12:56 +0000",
+      "minecraft:ghast": "2025-07-19 21:10:27 +0000",
       "minecraft:spider": "2025-07-18 19:12:44 +0000",
       "minecraft:creeper": "2025-07-18 20:15:35 +0000",
       "quark:forgotten": "2025-07-19 19:07:08 +0000",
@@ -12177,9 +12178,33 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-19 21:17:03 +0000"
     },
     "done": true
   },
@@ -12198,6 +12223,12 @@
   "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
     "criteria": {
       "has_lead_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12225,9 +12256,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/gold_nugget": {
     "criteria": {
       "has_empty_bullet": "2025-07-19 18:40:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12267,6 +12310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 20:35:40 +0000"
@@ -12291,9 +12340,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_iron_raw_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 21:13:10 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/brass_dust_from_ingot": {
     "criteria": {
       "has_brass_ingot": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:16 +0000"
     },
     "done": true
   },
@@ -12309,6 +12370,24 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
     "criteria": {
       "shard": "2025-07-19 19:00:43 +0000"
@@ -12318,6 +12397,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-07-19 20:47:36 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/raw_crimson_iron_from_block": {
+    "criteria": {
+      "has_item": "2025-07-19 21:13:10 +0000"
     },
     "done": true
   },
@@ -12333,11 +12418,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 20:35:40 +0000"
     },
     "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2025-07-19 21:13:10 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
@@ -12345,9 +12460,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_maroon_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12360,6 +12487,12 @@
   "dyenamics:recipes/misc/dye_fluorescent_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12387,6 +12520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/glowstone_dust": {
     "criteria": {
       "has_witch_hat": "2025-07-19 18:21:08 +0000"
@@ -12408,6 +12547,12 @@
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 20:35:40 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_crimson_iron": "2025-07-19 21:13:10 +0000"
     },
     "done": true
   },
@@ -12459,6 +12604,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/stone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/magic_lamp_empty": {
     "criteria": {
       "has_silver_ingot": "2025-07-19 19:59:16 +0000"
@@ -12486,6 +12643,12 @@
   "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
     },
     "done": true
   },
@@ -12537,6 +12700,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
@@ -12573,6 +12748,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-07-19 19:11:59 +0000"
@@ -12591,6 +12778,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2025-07-19 20:35:27 +0000"
@@ -12603,9 +12796,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-19 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12645,6 +12850,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
+    "criteria": {
+      "has_item0": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
@@ -12678,6 +12889,18 @@
   "alltheores:recipes/misc/brass_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12741,6 +12964,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/stone_1x": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
@@ -12783,6 +13012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-07-19 18:46:53 +0000"
@@ -12798,6 +13033,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-19 19:58:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12828,6 +13069,12 @@
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-07-19 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-19 21:17:16 +0000"
     },
     "done": true
   },
@@ -12879,6 +13126,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-07-19 21:17:16 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/sugar": {
     "criteria": {
       "has_witch_hat": "2025-07-19 18:21:08 +0000"
@@ -12915,15 +13168,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/module_template": {
     "criteria": {
       "dimshards": "2025-07-19 19:00:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_peach_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -12963,9 +13234,21 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/red_brick_extra": {
+    "criteria": {
+      "has_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
     },
     "done": true
   },
@@ -13023,9 +13306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 20:35:40 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -13038,6 +13333,24 @@
   "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 20:35:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
     },
     "done": true
   },
@@ -13065,6 +13378,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/lens_frame": {
     "criteria": {
       "has_silver_ingot": "2025-07-19 19:59:16 +0000"
@@ -13080,6 +13399,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -13101,6 +13426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
@@ -13113,9 +13444,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 20:35:40 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/raw_crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-07-19 21:13:10 +0000"
     },
     "done": true
   },
@@ -13167,9 +13510,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/machine_base": {
     "criteria": {
       "gold": "2025-07-19 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
@@ -13203,15 +13558,33 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_iron_raw_ore_smelting": {
+    "criteria": {
+      "has_item": "2025-07-19 21:13:10 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/platinum_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-19 19:48:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/brass_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-07-19 21:08:54 +0000"
     },
     "done": true
   },
@@ -13227,9 +13600,21 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/stone_wall": {
+    "criteria": {
+      "criterion0": "2025-07-19 21:19:01 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
     "criteria": {
       "shard": "2025-07-19 19:00:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 21:17:14 +0000"
     },
     "done": true
   },
