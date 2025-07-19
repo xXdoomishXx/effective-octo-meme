@@ -7473,6 +7473,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 18:43:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
@@ -7488,6 +7494,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 18:43:13 +0000"
     },
     "done": true
   },
@@ -7593,6 +7605,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 18:43:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
@@ -7644,6 +7662,12 @@
   "botania:recipes/misc/conversions/magenta_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-07-19 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 18:43:13 +0000"
     },
     "done": true
   },
@@ -7742,6 +7766,12 @@
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "scrambled_eggs": "2025-07-19 18:43:31 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
@@ -7923,6 +7953,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 18:43:13 +0000"
+    },
+    "done": true
+  },
   "charginggadgets:recipes/redstone/charging_station": {
     "criteria": {
       "has_diamonds": "2025-07-19 18:36:43 +0000"
@@ -7998,6 +8034,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-19 18:24:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead3": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 18:43:13 +0000"
     },
     "done": true
   },
@@ -8199,9 +8241,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 18:43:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 18:43:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 18:43:13 +0000"
     },
     "done": true
   },
@@ -8214,6 +8274,12 @@
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-07-19 18:10:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 18:43:13 +0000"
     },
     "done": true
   },
