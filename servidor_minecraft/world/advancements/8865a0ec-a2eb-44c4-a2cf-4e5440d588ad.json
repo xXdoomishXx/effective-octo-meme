@@ -12152,6 +12152,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/platinum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-19 19:48:04 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_rose_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
@@ -12272,9 +12278,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/platinum_dust_from_ingot": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-19 19:48:04 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_honey_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 19:48:04 +0000"
     },
     "done": true
   },
@@ -12299,6 +12317,12 @@
   "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
     "criteria": {
       "has_witch_hat": "2025-07-19 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 19:46:39 +0000"
     },
     "done": true
   },
@@ -12380,9 +12404,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 19:46:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_bone_meal": {
+    "criteria": {
+      "has_arcane_crystal_dust": "2025-07-19 19:50:30 +0000"
     },
     "done": true
   },
@@ -12401,6 +12437,18 @@
   "dyenamics:recipes/misc/dye_amber_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 19:46:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 19:46:39 +0000"
     },
     "done": true
   },
@@ -12440,9 +12488,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/platinum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-19 19:48:04 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-07-19 19:11:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2025-07-19 19:46:39 +0000"
     },
     "done": true
   },
@@ -12464,6 +12524,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/aureal_bottle": {
+    "criteria": {
+      "has_arcane_crystal_dust": "2025-07-19 19:50:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-19 19:48:04 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_mint_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
@@ -12476,9 +12548,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 19:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:46:17 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/witch": {
     "criteria": {
       "has_witch_hat": "2025-07-19 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-19 19:48:04 +0000"
     },
     "done": true
   },
