@@ -2088,10 +2088,12 @@
       "highland": "2025-07-19 03:49:40 +0000",
       "maple_woods": "2025-07-19 06:06:11 +0000",
       "field": "2025-07-19 06:04:51 +0000",
+      "orchard": "2025-07-19 22:39:36 +0000",
       "coniferous_forest": "2025-07-19 03:51:42 +0000",
       "forested_field": "2025-07-19 06:03:39 +0000",
       "redwood_forest": "2025-07-19 05:20:08 +0000",
       "fir_clearing": "2025-07-19 03:41:14 +0000",
+      "pumpkin_patch": "2025-07-19 22:38:25 +0000",
       "prairie": "2025-07-19 05:20:15 +0000",
       "gravel_beach": "2025-07-19 05:57:52 +0000"
     },
@@ -4315,21 +4317,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/pressure_chamber_interface": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/wall_lamp_orange": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
     },
     "done": true
   },
@@ -4339,63 +4329,9 @@
     },
     "done": true
   },
-  "xnet:recipes/xnet/advanced_connector_blue_dye": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/potato_chips": {
-    "criteria": {
-      "has_potato": "2025-07-19 06:01:03 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/compressed_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/connector_blue_dye": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
-    "criteria": {
-      "has_hay_block": "2025-07-19 05:16:59 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "pylons:recipes/misc/harvester_pylon": {
-    "criteria": {
-      "has_hay_block": "2025-07-19 05:16:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-07-19 05:40:25 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/honey_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
     },
     "done": true
   },
@@ -4405,63 +4341,15 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_lime": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "melon": "2025-07-19 05:00:10 +0000"
-    },
-    "done": false
-  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_yellow": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
-    "criteria": {
-      "paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_toast": {
-    "criteria": {
-      "has_bread": "2025-07-19 04:29:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/thermostat_module": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/shield": {
-    "criteria": {
-      "has_shield": "2025-07-19 04:46:01 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
     },
     "done": true
   },
@@ -4471,75 +4359,9 @@
     },
     "done": true
   },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-07-19 04:49:11 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blueprint_paper": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-07-19 05:08:04 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_light_blue": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
-    "criteria": {
-      "paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-07-19 06:01:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-07-19 04:46:32 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-07-19 05:47:37 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/connector_routing": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
     },
     "done": true
   },
@@ -4549,81 +4371,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_cyan": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_red": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/netcable_yellow_dye": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/amber_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_smoking_bread": {
-    "criteria": {
-      "has_bread": "2025-07-19 04:29:07 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/wall_lamp_brown": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/fluorescent_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_tube": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_tile": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/persimmon_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
     },
     "done": true
   },
@@ -4633,69 +4383,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/compressed_stone_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/meringue": {
-    "criteria": {
-      "has_egg": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_black": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2025-07-19 04:59:43 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/cherenkov_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2025-07-19 06:01:03 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-19 05:40:25 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/navy_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
     },
     "done": true
   },
@@ -4711,69 +4401,9 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/red_string_container": {
-    "criteria": {
-      "has_base_block": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_black": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/connector_green": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/connector_red_dye": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-19 05:08:04 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/netcable_blue_dye": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/mob_yoinker": {
-    "criteria": {
-      "criterion2": "2025-07-19 05:06:26 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/compressed_iron_gear": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/kerosene_lamp": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/mint_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
     },
     "done": true
   },
@@ -4783,63 +4413,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/ultramarine_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/air_canister": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/vortex_cannon": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/heat_frame": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sack": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
     },
     "done": true
   },
@@ -4852,90 +4428,6 @@
   "pneumaticcraft:recipes/misc/logistics_configurator": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_bread": {
-    "criteria": {
-      "has_bread": "2025-07-19 04:29:07 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
-    "criteria": {
-      "has_item": "2025-07-19 05:41:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-07-19 04:55:21 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-07-19 05:59:10 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/thermal_lagging": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/bubblegum_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/maroon_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/refinery_output": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
     },
     "done": true
   },
@@ -4957,33 +4449,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/reinforced_brick_pillar": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/black_paper": {
-    "criteria": {
-      "has_ingredient": "2025-07-19 05:24:18 +0000"
     },
     "done": true
   },
@@ -4999,27 +4467,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/documentation": {
-    "criteria": {
-      "has_crop": "2025-07-19 05:16:32 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/conifer_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/pneumatic_wrench": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_purple": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
     },
     "done": true
   },
@@ -5029,39 +4479,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-19 05:16:32 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/wall_lamp_pink": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/restraining_order": {
-    "criteria": {
-      "has_lead": "2025-07-19 05:06:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/connector_red": {
-    "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
     },
     "done": true
   },
@@ -5071,15 +4491,339 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "pneumaticcraft:recipes/misc/thermopneumatic_processing_plant": {
     "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "pneumaticcraft:recipes/misc/compressed_bricks": {
     "criteria": {
-      "fried_egg": "2025-07-19 05:22:31 +0000"
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_boots": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_bricks": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/minigun": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_magenta": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/camo_applicator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_white": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_orange": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/gas_lift": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/manometer": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_cyan": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_bricks_from_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/small_tank": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_valve": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_gauge": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_green": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_chest": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_leggings": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/transfer_gadget": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_brown": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_white": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_light_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/elevator_frame": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x1": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_yellow": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_pipe": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/spawner_agitator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_interface": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_lime": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermostat_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_light_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_cyan": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_red": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_tube": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_stone_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_black": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/kerosene_lamp": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_canister": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/vortex_cannon": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermal_lagging": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/refinery_output": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_purple": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
     },
     "done": true
   },
@@ -5089,15 +4833,261 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-07-19 05:09:50 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/thermal_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/vortex_tube": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_magenta": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_sink": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_helmet": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_green": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_core": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_purple": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_bricks_from_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/regulator_tube_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_lime": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/cannon_barrel": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_block_from_ingot": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x4": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_chestplate": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-07-19 04:29:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-07-19 04:29:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-19 04:29:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shield": {
+    "criteria": {
+      "has_shield": "2025-07-19 04:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-19 04:46:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-07-19 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/honey_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/amber_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/fluorescent_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/persimmon_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/cherenkov_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/navy_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/mint_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/ultramarine_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/bubblegum_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/maroon_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/conifer_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/aquamarine_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/icy_blue_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/spring_green_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/peach_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/lavender_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/rose_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bed/wine_bed_frm_white_bed": {
+    "criteria": {
+      "has_white_bed": "2025-07-19 04:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:55:21 +0000"
     },
     "done": true
   },
@@ -5107,9 +5097,393 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-19 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-07-19 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "melon": "2025-07-19 05:00:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-07-19 05:00:10 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/mob_yoinker": {
+    "criteria": {
+      "criterion2": "2025-07-19 05:06:26 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/restraining_order": {
+    "criteria": {
+      "has_lead": "2025-07-19 05:06:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 05:08:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 05:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-19 05:09:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2025-07-19 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-19 05:16:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-19 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:16:59 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/harvester_pylon": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:16:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-19 05:16:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-19 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
+    "criteria": {
+      "paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_paper_extra": {
+    "criteria": {
+      "has_material": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/paper_extra": {
+    "criteria": {
+      "has_material": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-07-19 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2025-07-19 05:24:35 +0000"
     },
     "done": true
   },
@@ -5137,141 +5511,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/vortex_tube": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/thermopneumatic_processing_plant": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/archwood_planks": {
-    "criteria": {
-      "has_the_recipe": "2025-07-19 05:41:36 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_bricks": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-07-19 04:55:21 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/vehicle_card": {
-    "criteria": {
-      "paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_boots": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_bricks": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "mekanismtools:alternate_tools": {
-    "criteria": {
-      "tools": "2025-07-19 05:52:31 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/minigun": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
   "xnet:recipes/xnet/advanced_connector_yellow": {
     "criteria": {
       "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_magenta": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/heat_sink": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/white_paper_extra": {
-    "criteria": {
-      "has_material": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_brick_wall": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_magenta": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_helmet": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
     },
     "done": true
   },
@@ -5281,297 +5523,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/camo_applicator": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_white": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_wall": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/aquamarine_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_orange": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/template_manager": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_wall": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_green": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-07-19 04:55:21 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/egg_roll": {
-    "criteria": {
-      "has_egg": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/gas_lift": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/paper_extra": {
-    "criteria": {
-      "has_material": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_core": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-07-19 05:40:25 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/manometer": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-07-19 06:01:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_cyan": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/icy_blue_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/spring_green_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-19 05:16:32 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_bricks_from_tile": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/small_tank": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-07-19 04:55:21 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_purple": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_valve": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_gauge": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:root": {
-    "criteria": {
-      "0": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-07-19 05:47:37 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/peach_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_green": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_bricks_from_tile": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/regulator_tube_module": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chilli_relleno": {
-    "criteria": {
-      "has_egg": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-07-19 05:16:59 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_chest": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2025-07-19 05:16:59 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/lavender_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_leggings": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2025-07-19 05:59:25 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/transfer_gadget": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_brown": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/scrambled_eggs": {
-    "criteria": {
-      "has_egg": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_white": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
     },
     "done": true
   },
@@ -5581,39 +5535,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_blue": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_lime": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
   "xnet:recipes/xnet/advanced_connector_green_dye": {
     "criteria": {
       "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-07-19 05:26:29 +0000"
     },
     "done": true
   },
@@ -5623,141 +5547,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/pressure_chamber_glass": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/melon_juice": {
-    "criteria": {
-      "has_melon": "2025-07-19 04:55:21 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_brick_from_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
-    "criteria": {
-      "has_paper": "2025-07-19 05:24:18 +0000"
-    },
-    "done": true
-  },
   "xnet:recipes/xnet/connector_green_dye": {
     "criteria": {
       "chest": "2025-07-19 05:24:35 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/wall_lamp_light_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-07-19 05:22:31 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/rose_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/cannon_barrel": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_brick_slab": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_block_from_ingot": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-07-19 06:01:03 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/elevator_frame": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-07-19 05:40:25 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/bed/wine_bed_frm_white_bed": {
-    "criteria": {
-      "has_white_bed": "2025-07-19 04:49:22 +0000"
-    },
-    "done": true
-  },
   "xnet:recipes/xnet/advanced_connector_routing": {
     "criteria": {
       "chest": "2025-07-19 05:24:35 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/reinforced_stone": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x4": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x1": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/wall_lamp_yellow": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-07-19 05:31:15 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/compressed_iron_chestplate": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:39 +0000"
     },
     "done": true
   },
@@ -5773,15 +5571,135 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/heat_pipe": {
+  "xnet:recipes/xnet/connector_yellow": {
     "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+      "chest": "2025-07-19 05:24:35 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/spawner_agitator": {
+  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
-      "has_ingot_iron_compressed": "2025-07-19 04:28:38 +0000"
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-07-19 05:26:29 +0000"
     },
     "done": true
   },
@@ -5791,27 +5709,111 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "melon_stem": "2025-07-19 05:00:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-07-19 05:16:59 +0000"
-    },
-    "done": true
-  },
   "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
     "criteria": {
       "has_string": "2025-07-19 05:26:29 +0000"
     },
     "done": true
   },
-  "xnet:recipes/xnet/connector_yellow": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "chest": "2025-07-19 05:24:35 +0000"
+      "has_magic_tablet": "2025-07-19 05:31:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-19 05:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-19 05:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-19 05:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-19 05:40:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
+    "criteria": {
+      "has_item": "2025-07-19 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 05:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-07-19 05:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-07-19 05:47:37 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-07-19 05:52:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-19 05:59:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-07-19 05:59:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-19 06:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-19 06:01:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-19 06:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-19 06:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-19 06:01:03 +0000"
     },
     "done": true
   },
