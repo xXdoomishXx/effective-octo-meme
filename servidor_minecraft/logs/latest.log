@@ -1986,3 +1986,5 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 19:07:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has reached the goal [This Belongs in a Museum]
 [19Jul2025 19:13:47.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [19Jul2025 19:16:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has reached the goal [Fortuitous Militia]
+[19Jul2025 19:22:39.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson moved wrongly!
+[19Jul2025 19:31:58.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Perchicton the Odd'/34429, l='ServerLevel[world]', x=757.54, y=59.00, z=-696.74] died: Perchicton the Odd was slain by Pepenson
