@@ -2058,3 +2058,18 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 03:02:49.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fimo0[/127.243.5.175:51993] logged in with entity id 42226 at (2172.929259374837, 64.0, 1768.961856249067)
 [19Jul2025 03:02:49.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 joined the game
 [19Jul2025 03:02:49.428] [Server thread/INFO] [Jade/]: Syncing config to Fimo0 (b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa)
+[19Jul2025 03:05:03.858] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75b6c99[id=<null>,name=Chato26898,properties={},legacy=false] (/127.35.160.186:46913) lost connection: Disconnected
+[19Jul2025 03:06:07.461] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fcc1cc3[id=<null>,name=Chato26898,properties={},legacy=false] (/127.35.160.186:42457) lost connection: Disconnected
+[19Jul2025 03:06:12.193] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chato26898 is 47a79f28-9378-41c4-8f9e-a5398d34c4e8
+[19Jul2025 03:06:24.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chato26898[/127.35.160.186:56959] logged in with entity id 44678 at (248.27309794577153, 67.0, -150.45677754703956)
+[19Jul2025 03:06:24.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 joined the game
+[19Jul2025 03:06:24.686] [Server thread/INFO] [Jade/]: Syncing config to Chato26898 (47a79f28-9378-41c4-8f9e-a5398d34c4e8)
+[19Jul2025 03:07:26.123] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Jul2025 03:07:26.124] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Jul2025 03:07:53.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=251, y=68, z=-147}
+[19Jul2025 03:08:48.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killerprank125 moved wrongly!
+[19Jul2025 03:09:13.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jul2025 03:09:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jul2025 03:09:13.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MsTrance lost connection: Server closed
+[19Jul2025 03:09:13.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance left the game
+[19Jul2025 03:09:13.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

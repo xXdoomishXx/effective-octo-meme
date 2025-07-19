@@ -7553,13 +7553,49 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flint_block": {
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
-      "has_flint": "2025-07-19 02:51:47 +0000"
+      "has_shear": "2025-07-19 02:07:47 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 02:10:45 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_fluid_filter": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:10:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-07-19 02:10:45 +0000"
     },
     "done": true
   },
   "bigreactors:recipes/building_blocks/turbine/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-19 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
     "criteria": {
       "has_item2": "2025-07-19 02:11:23 +0000"
     },
@@ -7571,15 +7607,9 @@
     },
     "done": true
   },
-  "trashcans:recipes/misc/liquid_trash_can": {
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
     "criteria": {
-      "recipe_condition": "2025-07-19 02:10:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-19 02:11:23 +0000"
+      "has_datura": "2025-07-19 02:26:16 +0000"
     },
     "done": true
   },
@@ -7595,42 +7625,6 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/fine_silk_cloth": {
-    "criteria": {
-      "has_item": "2025-07-19 02:56:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-19 02:51:47 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/fine_silk": {
-    "criteria": {
-      "has_item": "2025-07-19 02:56:37 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
-    "criteria": {
-      "has_shear": "2025-07-19 02:07:47 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
-    "criteria": {
-      "has_datura": "2025-07-19 02:26:16 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/basic_fluid_filter": {
-    "criteria": {
-      "has_ingredient": "2025-07-19 02:10:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-07-19 02:44:44 +0000"
@@ -7640,12 +7634,6 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2025-07-19 02:44:44 +0000"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/reactor/reinforced/activefluidport_forge": {
-    "criteria": {
-      "has_item2": "2025-07-19 02:11:23 +0000"
     },
     "done": true
   },
@@ -7661,27 +7649,81 @@
     },
     "done": true
   },
-  "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
-    "criteria": {
-      "has_item2": "2025-07-19 02:11:23 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-07-19 02:44:44 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/jerrycan": {
-    "criteria": {
-      "has_bucket": "2025-07-19 02:10:45 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/iron_ore_hammer": {
     "criteria": {
       "has_iron_block": "2025-07-19 02:44:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-19 02:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-19 02:51:47 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/fine_silk_cloth": {
+    "criteria": {
+      "has_item": "2025-07-19 02:56:37 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/fine_silk": {
+    "criteria": {
+      "has_item": "2025-07-19 02:56:37 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-07-19 03:04:44 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-07-19 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-19 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-07-19 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-07-19 03:05:00 +0000"
     },
     "done": true
   },
