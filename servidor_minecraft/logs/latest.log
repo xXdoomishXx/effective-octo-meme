@@ -2153,3 +2153,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 23:19:50.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Spooky Scary Skeleton]
 [19Jul2025 23:43:40.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pizinito lost connection: Disconnected
 [19Jul2025 23:43:40.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito left the game
+[19Jul2025 23:52:55.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/106424, l='ServerLevel[world]', x=452.83, y=116.34, z=-186.35] died: Honeyed Archer burned to death
