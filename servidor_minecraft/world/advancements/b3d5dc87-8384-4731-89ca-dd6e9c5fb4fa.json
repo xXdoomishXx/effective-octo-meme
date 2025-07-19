@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-19 02:07:06 +0000",
       "minecraft:taiga": "2025-07-18 19:46:32 +0000",
       "minecraft:birch_forest": "2025-07-18 20:20:40 +0000",
       "minecraft:windswept_hills": "2025-07-18 22:56:26 +0000",
@@ -8643,15 +8644,21 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
     "criteria": {
-      "has_crimson_iron_ingot": "2025-07-18 22:46:10 +0000"
+      "tnt": "2025-07-18 22:33:14 +0000"
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
     "criteria": {
-      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
+      "tnt": "2025-07-18 22:33:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+    "criteria": {
+      "tnt": "2025-07-18 22:33:14 +0000"
     },
     "done": true
   },
@@ -8661,35 +8668,41 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+  "enderio:recipes/misc/basic_fluid_filter": {
     "criteria": {
-      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
+      "has_ingredient": "2025-07-18 22:33:25 +0000"
     },
     "done": true
   },
-  "dyenamics:recipes/misc/dye_rose_carpet": {
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
     "criteria": {
-      "has_white_carpet": "2025-07-18 22:54:32 +0000"
+      "has_bucket": "2025-07-18 22:33:25 +0000"
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+  "croptopia:recipes/misc/peach_sapling": {
     "criteria": {
-      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
+      "has_peach": "2025-07-18 22:34:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
+  "croptopia:recipes/misc/peach_jam": {
     "criteria": {
-      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+      "has_peach": "2025-07-18 22:34:29 +0000"
     },
     "done": true
   },
-  "dyenamics:recipes/misc/dye_conifer_carpet": {
+  "apotheosis:affix/random": {
     "criteria": {
-      "has_white_carpet": "2025-07-18 22:54:32 +0000"
+      "sword": "2025-07-18 22:43:30 +0000"
     },
     "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-07-18 22:46:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -8697,9 +8710,153 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_light_gray": {
+  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
     "criteria": {
-      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+      "has_logistics_core": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/classify_filter": {
+    "criteria": {
+      "has_logistics_core": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
+    "criteria": {
+      "has_logistics_core": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
+    "criteria": {
+      "has_logistics_core": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
+    "criteria": {
+      "has_logistics_core": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_module": {
+    "criteria": {
+      "has_logistics_core": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_passive_provider": {
+    "criteria": {
+      "has_logistics_core": "2025-07-18 22:46:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
+    "criteria": {
+      "has_crimson_iron_ingot": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-07-18 22:46:10 +0000"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/salvager": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-07-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 22:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 22:46:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 22:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 22:46:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 22:46:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-07-18 22:46:13 +0000"
     },
     "done": true
   },
@@ -8715,27 +8872,141 @@
     },
     "done": true
   },
+  "quarryplus:recipes/workbench": {
+    "criteria": {
+      "has_storage_blocks/gold": "2025-07-18 22:47:06 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-07-18 22:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-18 22:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-18 22:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-18 22:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-18 22:49:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-07-18 22:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-18 22:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-07-18 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2025-07-18 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_rose_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-18 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_conifer_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-18 22:54:32 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_cherenkov_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 22:54:32 +0000"
     },
     "done": true
   },
-  "silentgear:crimson_iron": {
-    "criteria": {
-      "get_ingot": "2025-07-18 22:46:10 +0000"
-    },
-    "done": false
-  },
   "dyenamics:recipes/misc/dye_maroon_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
     },
     "done": true
   },
@@ -8757,33 +9028,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
-    "criteria": {
-      "tnt": "2025-07-18 22:33:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-07-18 22:49:51 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_nugget": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/dye_persimmon_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 22:46:13 +0000"
     },
     "done": true
   },
@@ -8793,57 +9040,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
-    "criteria": {
-      "has_logistics_core": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/salvager": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
-    },
-    "done": true
-  },
-  "quarryplus:recipes/workbench": {
-    "criteria": {
-      "has_storage_blocks/gold": "2025-07-18 22:47:06 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/dye_honey_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
-    "criteria": {
-      "tnt": "2025-07-18 22:33:14 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
-    "criteria": {
-      "has_gold_block": "2025-07-18 22:47:06 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/light_gray_flag": {
-    "criteria": {
-      "has_light_gray_flag": "2025-07-18 22:50:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-07-18 22:49:51 +0000"
     },
     "done": true
   },
@@ -8853,51 +9052,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
-    "criteria": {
-      "has_zombie_heart": "2025-07-18 22:53:55 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
     "criteria": {
       "has_cyan_carpet": "2025-07-18 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-18 22:54:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2025-07-18 22:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:programming_puzzle": {
-    "criteria": {
-      "0": "2025-07-18 22:53:51 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/basic_fluid_filter": {
-    "criteria": {
-      "has_ingredient": "2025-07-18 22:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-07-18 22:49:50 +0000"
     },
     "done": true
   },
@@ -8913,57 +9070,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/classify_filter": {
-    "criteria": {
-      "has_logistics_core": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/dye_peach_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
-    "criteria": {
-      "has_logistics_core": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_dust": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-07-18 22:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-07-18 22:47:06 +0000"
-    },
-    "done": true
-  },
-  "silentgear:nether_plants": {
-    "criteria": {
-      "sapling": "2025-07-18 22:46:08 +0000"
-    },
-    "done": false
-  },
-  "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
     },
     "done": true
   },
@@ -8973,63 +9082,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-18 22:54:33 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_steel_ingot": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 22:46:13 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
-    "criteria": {
-      "has_logistics_core": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
-    "criteria": {
-      "has_logistics_core": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_block": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/dye_mint_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 22:46:13 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_dust_smelting": {
-    "criteria": {
-      "has_item": "2025-07-18 22:46:10 +0000"
     },
     "done": true
   },
@@ -9039,75 +9094,27 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/peach_sapling": {
-    "criteria": {
-      "has_peach": "2025-07-18 22:34:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 22:46:13 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_module": {
-    "criteria": {
-      "has_logistics_core": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/peach_jam": {
-    "criteria": {
-      "has_peach": "2025-07-18 22:34:29 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-07-18 22:43:30 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_black": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 22:46:13 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_passive_provider": {
-    "criteria": {
-      "has_logistics_core": "2025-07-18 22:46:09 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/black_flag": {
-    "criteria": {
-      "has_black_flag": "2025-07-18 22:46:13 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/dye_bubblegum_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-18 22:54:32 +0000"
     },
     "done": true
   },
-  "comforts:hammock_light_gray": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "has_light_gray_wool": "2025-07-18 22:50:12 +0000"
+      "has_log": "2025-07-18 22:54:33 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "tnt": "2025-07-18 22:33:14 +0000"
+      "has_stripped_logs": "2025-07-18 22:54:33 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
-      "has_bucket": "2025-07-18 22:33:25 +0000"
+      "has_item": "2025-07-19 02:02:00 +0000"
     },
     "done": true
   },
