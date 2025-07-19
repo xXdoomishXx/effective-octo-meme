@@ -12172,6 +12172,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2025-07-19 18:46:19 +0000"
@@ -12259,6 +12265,12 @@
   "connectedglass:recipes/misc/borderless_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
     },
     "done": true
   },
@@ -12400,6 +12412,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/raw_crimson_iron_from_block": {
     "criteria": {
       "has_item": "2025-07-19 21:13:10 +0000"
@@ -12475,6 +12493,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-07-19 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
     },
     "done": true
   },
@@ -12610,6 +12634,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/stone_chain": {
     "criteria": {
       "recipe_condition": "2025-07-19 21:19:01 +0000"
@@ -12694,6 +12724,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/platinum_dust_from_ingot": {
     "criteria": {
       "has_platinum_ingot": "2025-07-19 19:48:04 +0000"
@@ -12745,6 +12781,12 @@
   "forbidden_arcanus:recipes/misc/stellarite_block_from_stellarite_piece": {
     "criteria": {
       "has_stellarite_piece": "2025-07-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-19 21:47:37 +0000"
     },
     "done": true
   },
@@ -12874,6 +12916,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
     "criteria": {
       "has_item": "2025-07-19 20:35:27 +0000"
@@ -12937,6 +12985,12 @@
   "enderio:recipes/redstone/resetting_lever_ten_inv": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
     },
     "done": true
   },
@@ -13114,9 +13168,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
     },
     "done": true
   },
@@ -13132,6 +13198,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/sugar": {
     "criteria": {
       "has_witch_hat": "2025-07-19 18:21:08 +0000"
@@ -13141,6 +13213,18 @@
   "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-07-19 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
     },
     "done": true
   },
@@ -13306,6 +13390,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-19 21:19:01 +0000"
@@ -13426,6 +13522,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-07-19 21:17:14 +0000"
@@ -13468,6 +13570,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
+    },
+    "done": true
+  },
   "create:stressometer": {
     "criteria": {
       "0": "2025-07-19 20:04:14 +0000"
@@ -13489,6 +13603,12 @@
   "dyenamics:recipes/misc/dye_mint_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-19 21:35:39 +0000"
     },
     "done": true
   },
@@ -13597,6 +13717,12 @@
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-07-19 20:35:27 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2025-07-19 21:26:43 +0000"
     },
     "done": true
   },
