@@ -12315,6 +12315,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 20:47:36 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-07-19 19:54:46 +0000"
@@ -12801,6 +12807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-19 20:52:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2025-07-19 20:35:27 +0000"
@@ -12834,6 +12846,12 @@
   "dyenamics:recipes/misc/dye_navy_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 20:52:37 +0000"
     },
     "done": true
   },

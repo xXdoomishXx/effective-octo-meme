@@ -7482,6 +7482,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-07-19 20:51:17 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
@@ -7915,6 +7921,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-07-19 20:51:27 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/voltmeter": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 18:58:22 +0000"
@@ -8194,6 +8206,12 @@
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 20:53:04 +0000"
     },
     "done": true
   },
@@ -8506,6 +8524,12 @@
   "allthecompressed:recipes/building_blocks/compress/quartz_block_1x": {
     "criteria": {
       "has_quartz_block": "2025-07-19 19:49:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-07-19 20:52:08 +0000"
     },
     "done": true
   },
@@ -9541,6 +9565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-19 20:51:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-07-19 20:20:15 +0000"
@@ -9694,6 +9724,12 @@
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 20:52:08 +0000"
     },
     "done": true
   },
@@ -10060,6 +10096,12 @@
   "botania:recipes/misc/quartz_sunny": {
     "criteria": {
       "has_item": "2025-07-19 19:44:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-19 20:51:27 +0000"
     },
     "done": true
   },

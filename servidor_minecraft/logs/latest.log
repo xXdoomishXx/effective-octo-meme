@@ -1994,3 +1994,12 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 19:42:52.503] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/35589, l='ServerLevel[world]', x=139.00, y=31.00, z=-342.00] as it would cause deadlock
 [19Jul2025 19:58:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Voluntary Exile]
 [19Jul2025 20:35:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [The Brass Age]
+[19Jul2025 20:47:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson was slain by His Holiness Suzy
+[19Jul2025 20:47:15.789] [Server thread/INFO] [tombstone/]: The player Pepenson has successfully been saved
+[19Jul2025 20:47:17.144] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 20:47:36.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has reached the goal [Chain Death]
+[19Jul2025 20:47:36.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson was slain by His Holiness Suzy
+[19Jul2025 20:47:36.148] [Server thread/INFO] [tombstone/]: The player Pepenson has successfully been saved
+[19Jul2025 20:47:37.348] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 20:47:52.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['His Holiness Suzy'/50856, l='ServerLevel[world]', x=733.23, y=74.00, z=-735.57] died: His Holiness Suzy was slain by Pepenson
+[19Jul2025 20:51:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has reached the goal [Flawless Crystals]
