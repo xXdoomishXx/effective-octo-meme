@@ -1982,3 +1982,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 18:23:22.268] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [19Jul2025 18:24:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Not Today, Thank You]
 [19Jul2025 18:24:30.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17731, l='ServerLevel[world]', x=587.06, y=93.41, z=-562.84] died: Undead Knight suffocated in a wall
+[19Jul2025 18:36:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance has made the advancement [Diamonds!]

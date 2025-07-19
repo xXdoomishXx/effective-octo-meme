@@ -12138,6 +12138,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_empty_bullet": "2025-07-19 18:40:13 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_conifer_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
