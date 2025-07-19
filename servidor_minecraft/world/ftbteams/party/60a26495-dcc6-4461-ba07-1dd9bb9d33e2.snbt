@@ -3,10 +3,8 @@
 	type: "party"
 	owner: "47a79f28-9378-41c4-8f9e-a5398d34c4e8"
 	ranks: {
-		8865a0ec-a2eb-44c4-a2cf-4e5440d588ad: "member"
 		b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa: "member"
 		47a79f28-9378-41c4-8f9e-a5398d34c4e8: "owner"
-		96760c96-9e29-46ef-8caf-8742f8282e1e: "member"
 		f41d5ed6-ba9c-4c2e-9a74-6ef873169d2d: "member"
 		54c75a27-f472-4df5-8250-2460ed71d719: "invited"
 	}
@@ -40,6 +38,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897026948L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Fimo0\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897027248L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pepenson\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897033740L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pizinito\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752965919596L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pizinito\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752965950135L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pepenson\"}]}" }
 	]
 	extra: { }
 }

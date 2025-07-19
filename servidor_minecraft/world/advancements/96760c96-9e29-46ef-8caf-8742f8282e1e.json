@@ -5836,6 +5836,12 @@
     },
     "done": true
   },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2025-07-19 23:03:18 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-07-19 22:50:36 +0000"

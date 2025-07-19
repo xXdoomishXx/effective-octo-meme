@@ -2,7 +2,9 @@
 	id: "96760c96-9e29-46ef-8caf-8742f8282e1e"
 	type: "player"
 	player_name: "Pizinito"
-	ranks: { }
+	ranks: {
+		96760c96-9e29-46ef-8caf-8742f8282e1e: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "Pizinito"
 		"ftbteams:description": ""

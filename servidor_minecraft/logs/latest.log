@@ -2112,3 +2112,28 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 22:52:21.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pizinito> matate y grabalo
 [19Jul2025 22:53:00.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Magic Writing]
 [19Jul2025 22:53:11.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Captured!]
+[19Jul2025 22:58:39.608] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Chato26898_s_Party#60a26495 to Pizinito#96760c96
+[19Jul2025 22:58:39.608] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 60a26495-dcc6-4461-ba07-1dd9bb9d33e2 (Chato26898_s_Party#60a26495) to 96760c96-9e29-46ef-8caf-8742f8282e1e (Pizinito#96760c96)
+[19Jul2025 22:58:39.608] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 60a26495-dcc6-4461-ba07-1dd9bb9d33e2 (Chato26898_s_Party#60a26495) due to claim limits
+[19Jul2025 22:58:39.608] [Server thread/INFO] [FTB Chunks/]: Team Pizinito#96760c96 had 0 claimed chunks, now has 0
+[19Jul2025 22:58:59.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance was slain by Fimo0
+[19Jul2025 22:58:59.263] [Server thread/INFO] [tombstone/]: The player MsTrance has successfully been saved
+[19Jul2025 22:59:00.934] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 22:59:10.136] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Chato26898_s_Party#60a26495 to Pepenson#8865a0ec
+[19Jul2025 22:59:10.136] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 60a26495-dcc6-4461-ba07-1dd9bb9d33e2 (Chato26898_s_Party#60a26495) to 8865a0ec-a2eb-44c4-a2cf-4e5440d588ad (Pepenson#8865a0ec)
+[19Jul2025 22:59:10.136] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 60a26495-dcc6-4461-ba07-1dd9bb9d33e2 (Chato26898_s_Party#60a26495) due to claim limits
+[19Jul2025 22:59:10.137] [Server thread/INFO] [FTB Chunks/]: Team Pepenson#8865a0ec had 0 claimed chunks, now has 0
+[19Jul2025 22:59:22.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> e
+[19Jul2025 22:59:25.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> carnero
+[19Jul2025 22:59:32.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pizinito> matate y grabalo gil
+[19Jul2025 22:59:38.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fimo0> que
+[19Jul2025 22:59:39.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> protege la zona
+[19Jul2025 22:59:45.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fimo0> a ve
+[19Jul2025 22:59:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> arriva a la derecha cuando apretas la e
+[19Jul2025 23:00:06.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> hay un mapia que dice ftb chunck
+[19Jul2025 23:00:11.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> izquierda
+[19Jul2025 23:00:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> perdon jajajaja
+[19Jul2025 23:01:08.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> no protegas tanto ura
+[19Jul2025 23:01:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> le voy a quitar chunk enseguida
+[19Jul2025 23:01:29.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/84693, l='ServerLevel[world]', x=699.49, y=66.41, z=91.41] died: Undead Knight was slain by Wolf
+[19Jul2025 23:03:18.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito has made the advancement [To Die For]

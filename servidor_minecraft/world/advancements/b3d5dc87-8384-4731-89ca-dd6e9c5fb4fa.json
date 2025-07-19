@@ -12175,6 +12175,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/wheat_flour": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/redstoneproxy_update": {
     "criteria": {
       "torch": "2025-07-19 22:45:42 +0000"
@@ -12217,6 +12229,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/coal_to_diamond": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
@@ -12226,6 +12244,12 @@
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_block": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
     },
     "done": true
   },
@@ -12313,6 +12337,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/solar_wafer": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
@@ -12385,9 +12415,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-19 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/etching_acid": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_smelting_upgrade_from_backpack_smelting_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-07-19 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/turbine_blade": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
     },
     "done": true
   },
@@ -12409,6 +12457,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_alt_item": "2025-07-19 23:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
@@ -12418,6 +12472,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-19 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-19 23:02:47 +0000"
     },
     "done": true
   },
@@ -12439,9 +12499,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-07-19 23:02:47 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-07-19 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/empty_pcb": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
     },
     "done": true
   },
@@ -12517,9 +12589,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_ingot": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/soy_sauce": {
     "criteria": {
       "has_soybean": "2025-07-19 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/blue_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
     },
     "done": true
   },
@@ -12541,6 +12625,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/transistor": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/capacitor": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 22:45:42 +0000"
@@ -12559,6 +12655,24 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/packed_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_blue": {
+    "criteria": {
+      "has_item": "2025-07-19 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-19 23:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-19 22:37:06 +0000"
@@ -12571,9 +12685,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_stone": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-19 22:37:06 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/milk_to_slime_balls": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
     },
     "done": true
   },
