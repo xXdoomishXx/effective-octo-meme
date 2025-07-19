@@ -12175,6 +12175,18 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 22:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
@@ -12187,15 +12199,51 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-07-19 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-07-19 22:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/deepslate_bricks_chain": {
     "criteria": {
       "recipe_condition": "2025-07-19 22:37:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-19 22:53:00 +0000"
     },
     "done": true
   },
@@ -12223,6 +12271,30 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_osmium_block": "2025-07-19 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 22:52:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_osmium_from_block": {
+    "criteria": {
+      "has_item": "2025-07-19 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-07-19 22:32:47 +0000"
@@ -12232,6 +12304,12 @@
   "botania:recipes/decorations/turntable": {
     "criteria": {
       "has_alt_item": "2025-07-19 22:32:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 22:53:06 +0000"
     },
     "done": true
   },
@@ -12253,6 +12331,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
@@ -12262,6 +12346,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-19 22:37:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-07-19 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-07-19 22:53:11 +0000"
     },
     "done": true
   },
@@ -12307,6 +12403,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
@@ -12319,9 +12421,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/soybean_seed": {
+    "criteria": {
+      "has_soybean": "2025-07-19 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-07-19 22:53:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-07-19 22:36:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
+    "criteria": {
+      "has_raw_lead": "2025-07-19 22:53:06 +0000"
     },
     "done": true
   },
@@ -12331,9 +12451,45 @@
     },
     "done": true
   },
+  "croptopia:recipes/soy_milk": {
+    "criteria": {
+      "has_soybean": "2025-07-19 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_feather": "2025-07-19 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tofu": {
+    "criteria": {
+      "has_soybean": "2025-07-19 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-19 22:37:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
     },
     "done": true
   },
@@ -12349,9 +12505,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_aluminum_block": "2025-07-19 22:52:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-19 22:37:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_sauce": {
+    "criteria": {
+      "has_soybean": "2025-07-19 22:54:16 +0000"
     },
     "done": true
   },
@@ -12361,9 +12529,27 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 22:45:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_aluminum_from_block": {
+    "criteria": {
+      "has_item": "2025-07-19 22:52:45 +0000"
     },
     "done": true
   },

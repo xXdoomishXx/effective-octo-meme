@@ -2103,3 +2103,12 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 22:43:14.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=550, y=68, z=-108} BlockPos{x=548, y=67, z=-109}
 [19Jul2025 22:43:14.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=550, y=68, z=-108} BlockPos{x=548, y=67, z=-109}
 [19Jul2025 22:45:26.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fimo0 moved wrongly!
+[19Jul2025 22:46:48.413] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[19Jul2025 22:46:48.414] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[19Jul2025 22:50:34.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito has made the advancement [Ashes 'n Bones]
+[19Jul2025 22:50:36.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito has made the advancement [How'd You Get This?]
+[19Jul2025 22:50:53.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito has made the advancement [Knowledge raises the soul]
+[19Jul2025 22:52:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has reached the goal [Fortuitous Militia]
+[19Jul2025 22:52:21.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pizinito> matate y grabalo
+[19Jul2025 22:53:00.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Magic Writing]
+[19Jul2025 22:53:11.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Captured!]
