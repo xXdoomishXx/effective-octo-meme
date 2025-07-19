@@ -11914,69 +11914,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2025-07-19 17:52:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-19 18:08:01 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
-    "criteria": {
-      "has_item": "2025-07-19 17:55:52 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/manual_compressor": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-07-19 17:55:52 +0000"
-    },
-    "done": true
-  },
   "forbidden_arcanus:recipes/misc/dark_nether_star": {
     "criteria": {
       "has_nether_star": "2025-07-19 17:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2025-07-19 17:52:53 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/charging_module": {
-    "criteria": {
-      "has_charging_station": "2025-07-19 18:01:12 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange": {
-    "criteria": {
-      "has_orange_wool": "2025-07-19 17:52:53 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
-    "criteria": {
-      "has_rune": "2025-07-19 17:56:42 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/air_cannon": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
     },
     "done": true
   },
@@ -11986,105 +11926,39 @@
     },
     "done": true
   },
-  "pneumaticcraft:machine_vandal": {
-    "criteria": {
-      "0": "2025-07-19 18:01:11 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
-    "criteria": {
-      "has_item": "2025-07-19 17:55:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2025-07-19 17:52:53 +0000"
-    },
-    "done": true
-  },
   "allthetweaks:recipes/misc/nether_star_block": {
     "criteria": {
       "has_nether_star": "2025-07-19 17:48:55 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
-    "criteria": {
-      "has_arcane_crystal": "2025-07-19 17:55:52 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/tube_junction": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:air_compressor": {
-    "criteria": {
-      "0": "2025-07-19 18:01:12 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-07-19 18:00:24 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/air_compressor": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/nectarine_sapling": {
-    "criteria": {
-      "has_nectarine": "2025-07-19 18:07:03 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/pear_sapling": {
-    "criteria": {
-      "has_pear": "2025-07-19 18:06:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/charging_station": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-07-19 17:53:13 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/air_grate_module": {
-    "criteria": {
-      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-07-19 17:57:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
-    "criteria": {
-      "has_arcane_crystal_gem": "2025-07-19 17:55:52 +0000"
-    },
-    "done": true
-  },
   "constructionwand:recipes/tools/infinity_wand": {
     "criteria": {
       "has_item": "2025-07-19 17:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-07-19 17:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-07-19 17:52:53 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-07-19 17:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-07-19 17:52:53 +0000"
     },
     "done": true
   },
@@ -12100,21 +11974,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-07-19 17:53:13 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-07-19 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-07-19 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2025-07-19 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
+    "criteria": {
+      "has_arcane_crystal_gem": "2025-07-19 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-07-19 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
+    "criteria": {
+      "has_rune": "2025-07-19 17:56:42 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/test_tube": {
     "criteria": {
       "has_item": "2025-07-19 17:56:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2025-07-19 18:04:48 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:pressure_tube": {
-    "criteria": {
-      "0": "2025-07-19 18:01:14 +0000"
     },
     "done": true
   },
@@ -12124,9 +12034,213 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "has_arcane_crystal": "2025-07-19 17:55:52 +0000"
+      "axolotl_bucket": "2025-07-19 17:57:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-19 18:00:24 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2025-07-19 18:01:11 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_module": {
+    "criteria": {
+      "has_charging_station": "2025-07-19 18:01:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:air_compressor": {
+    "criteria": {
+      "0": "2025-07-19 18:01:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/manual_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_cannon": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/tube_junction": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_station": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_grate_module": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-07-19 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-07-19 18:04:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pear_sapling": {
+    "criteria": {
+      "has_pear": "2025-07-19 18:06:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/nectarine_sapling": {
+    "criteria": {
+      "has_nectarine": "2025-07-19 18:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-19 18:08:01 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_rose_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_conifer_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_cherenkov_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_maroon_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_spring_green_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_fluorescent_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_ultramarine_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_persimmon_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_aquamarine_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_honey_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_icy_blue_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_navy_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_amber_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_peach_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_dust": {
+    "criteria": {
+      "has_arcane_crystal_dust_speck": "2025-07-19 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_lavender_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_mint_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_wine_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/dye_bubblegum_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-07-19 18:14:33 +0000"
     },
     "done": true
   },
