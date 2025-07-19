@@ -2,9 +2,7 @@
 	id: "8865a0ec-a2eb-44c4-a2cf-4e5440d588ad"
 	type: "player"
 	player_name: "Pepenson"
-	ranks: {
-		8865a0ec-a2eb-44c4-a2cf-4e5440d588ad: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Pepenson"
 		"ftbteams:description": ""

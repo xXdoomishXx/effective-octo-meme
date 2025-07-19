@@ -2,9 +2,7 @@
 	id: "47a79f28-9378-41c4-8f9e-a5398d34c4e8"
 	type: "player"
 	player_name: "Chato26898"
-	ranks: {
-		47a79f28-9378-41c4-8f9e-a5398d34c4e8: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Chato26898"
 		"ftbteams:description": ""

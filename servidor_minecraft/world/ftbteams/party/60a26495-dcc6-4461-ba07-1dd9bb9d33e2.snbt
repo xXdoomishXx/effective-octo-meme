@@ -1,0 +1,45 @@
+{
+	id: "60a26495-dcc6-4461-ba07-1dd9bb9d33e2"
+	type: "party"
+	owner: "47a79f28-9378-41c4-8f9e-a5398d34c4e8"
+	ranks: {
+		8865a0ec-a2eb-44c4-a2cf-4e5440d588ad: "member"
+		b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa: "member"
+		47a79f28-9378-41c4-8f9e-a5398d34c4e8: "owner"
+		96760c96-9e29-46ef-8caf-8742f8282e1e: "member"
+		f41d5ed6-ba9c-4c2e-9a74-6ef873169d2d: "member"
+		54c75a27-f472-4df5-8250-2460ed71d719: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "Chato26898's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897011619L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Chato26898\"}]}" }
+		{ from: "47a79f28-9378-41c4-8f9e-a5398d34c4e8", date: 1752897023311L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MsTrance\"}]}" }
+		{ from: "47a79f28-9378-41c4-8f9e-a5398d34c4e8", date: 1752897023311L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pizinito\"}]}" }
+		{ from: "47a79f28-9378-41c4-8f9e-a5398d34c4e8", date: 1752897023311L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pepenson\"}]}" }
+		{ from: "47a79f28-9378-41c4-8f9e-a5398d34c4e8", date: 1752897023311L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Killerprank125\"}]}" }
+		{ from: "47a79f28-9378-41c4-8f9e-a5398d34c4e8", date: 1752897023311L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Fimo0\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897026715L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Killerprank125\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897026948L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Fimo0\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897027248L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pepenson\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897033740L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pizinito\"}]}" }
+	]
+	extra: { }
+}

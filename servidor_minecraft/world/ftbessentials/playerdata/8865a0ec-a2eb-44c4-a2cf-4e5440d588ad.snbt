@@ -3,9 +3,11 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 741, y: 75, z: -728, time: 1752894156444L, xRot: 26.85004f, yRot: 170.32678f }
+	last_seen: { dim: "minecraft:overworld", x: 747, y: 67, z: -721, time: 1752895481358L, xRot: 63.449696f, yRot: 159.80823f }
 	recording: "none"
 	teleport_history: [ ]
-	homes: { }
+	homes: {
+		"pepe casa": { dim: "minecraft:overworld", x: 713, y: 74, z: -711, time: 1752896488063L, xRot: 12.300319f, yRot: -101.10635f }
+	}
 	kit_use_times: { }
 }

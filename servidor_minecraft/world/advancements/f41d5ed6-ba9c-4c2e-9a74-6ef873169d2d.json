@@ -55,6 +55,8 @@
       "minecraft:swamp": "2025-07-18 19:04:09 +0000",
       "minecraft:forest": "2025-07-18 18:53:12 +0000",
       "minecraft:jungle": "2025-07-18 20:27:34 +0000",
+      "minecraft:ocean": "2025-07-19 03:26:35 +0000",
+      "minecraft:windswept_savanna": "2025-07-19 04:09:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 02:13:37 +0000",
       "minecraft:meadow": "2025-07-18 20:21:00 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-18 19:04:51 +0000",
@@ -1998,6 +2000,7 @@
     "criteria": {
       "woodland": "2025-07-18 20:43:26 +0000",
       "scrubland": "2025-07-18 20:43:31 +0000",
+      "floodplain": "2025-07-19 04:12:27 +0000",
       "highland": "2025-07-18 20:21:53 +0000",
       "jacaranda_glade": "2025-07-19 02:40:26 +0000",
       "marsh": "2025-07-19 03:05:10 +0000",
@@ -2014,7 +2017,8 @@
       "fir_clearing": "2025-07-18 19:06:19 +0000",
       "pumpkin_patch": "2025-07-18 19:23:39 +0000",
       "prairie": "2025-07-18 20:03:08 +0000",
-      "gravel_beach": "2025-07-18 19:26:13 +0000"
+      "gravel_beach": "2025-07-18 19:26:13 +0000",
+      "rainforest": "2025-07-19 04:12:42 +0000"
     },
     "done": false
   },
@@ -8241,6 +8245,320 @@
   "enderio:recipes/misc/redstone_alloy_nugget_to_ingot": {
     "criteria": {
       "has_ingredient": "2025-07-19 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_sandstone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_cream_stone_bricks": "2025-07-19 04:01:29 +0000",
+      "has_item2_domum_ornamentum_cream_stone_bricks": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
+    "criteria": {
+      "tnt": "2025-07-19 03:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
+    "criteria": {
+      "tnt": "2025-07-19 03:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/jungle_log_1x": {
+    "criteria": {
+      "has_jungle_log": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_cream_bricks": "2025-07-19 04:01:29 +0000",
+      "has_item1_domum_ornamentum_cream_bricks": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:11:08 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-07-19 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-19 04:11:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/jungle_planks_1x": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-07-19 04:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-07-19 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+    "criteria": {
+      "tnt": "2025-07-19 03:24:41 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/jungle_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-07-19 04:13:29 +0000"
     },
     "done": true
   },

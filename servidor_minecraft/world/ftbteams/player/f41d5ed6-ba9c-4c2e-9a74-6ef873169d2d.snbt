@@ -2,9 +2,7 @@
 	id: "f41d5ed6-ba9c-4c2e-9a74-6ef873169d2d"
 	type: "player"
 	player_name: "Killerprank125"
-	ranks: {
-		f41d5ed6-ba9c-4c2e-9a74-6ef873169d2d: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Killerprank125"
 		"ftbteams:description": ""

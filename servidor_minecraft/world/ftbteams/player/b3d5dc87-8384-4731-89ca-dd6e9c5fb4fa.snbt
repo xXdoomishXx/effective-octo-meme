@@ -2,9 +2,7 @@
 	id: "b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa"
 	type: "player"
 	player_name: "Fimo0"
-	ranks: {
-		b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Fimo0"
 		"ftbteams:description": ""

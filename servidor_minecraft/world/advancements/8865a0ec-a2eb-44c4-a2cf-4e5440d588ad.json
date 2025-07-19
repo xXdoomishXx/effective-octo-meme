@@ -1127,6 +1127,7 @@
       "honey_bottle": "2025-07-18 21:26:34 +0000",
       "cooked_mutton": "2025-07-18 22:11:23 +0000",
       "cooked_beef": "2025-07-18 19:58:12 +0000",
+      "apple": "2025-07-19 03:41:43 +0000",
       "bread": "2025-07-18 19:20:52 +0000",
       "rotten_flesh": "2025-07-18 19:14:47 +0000",
       "cooked_chicken": "2025-07-18 22:59:22 +0000",
@@ -2098,6 +2099,7 @@
       "overgrown_greens": "2025-07-19 02:11:16 +0000",
       "coniferous_forest": "2025-07-18 19:14:13 +0000",
       "forested_field": "2025-07-18 19:47:02 +0000",
+      "spider_nest": "2025-07-19 04:12:31 +0000",
       "redwood_forest": "2025-07-18 19:22:17 +0000",
       "dune_beach": "2025-07-18 22:36:07 +0000",
       "seasonal_forest": "2025-07-18 19:25:56 +0000",
@@ -7685,6 +7687,12 @@
     },
     "done": true
   },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-07-19 03:04:44 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/turbine/basic/passivefluidport_forge": {
     "criteria": {
       "has_item2": "2025-07-19 03:05:00 +0000"
@@ -7694,12 +7702,6 @@
   "bigreactors:recipes/building_blocks/turbine/reinforced/passivefluidport_forge": {
     "criteria": {
       "has_item2": "2025-07-19 03:05:00 +0000"
-    },
-    "done": true
-  },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2025-07-19 03:04:44 +0000"
     },
     "done": true
   },
@@ -7724,6 +7726,1351 @@
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2025-07-19 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/display_shelf": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2025-07-19 04:12:16 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/glue_ball": {
+    "criteria": {
+      "criterion0": "2025-07-19 03:46:37 +0000",
+      "criterion1": "2025-07-19 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/celery_seed": {
+    "criteria": {
+      "has_celery": "2025-07-19 03:44:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/fluorescent_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-07-19 04:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/display_table_from_shelf": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_pillar_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "createoreexcavation:recipes/misc/diamond_drill": {
+    "criteria": {
+      "diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "dimstorage:recipes/misc/dim_core": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_default_storage_self": {
+    "criteria": {
+      "has_logistics_frame_default_storage": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
+    "criteria": {
+      "has_grass_block": "2025-07-19 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-07-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/mob_yoinker": {
+    "criteria": {
+      "criterion2": "2025-07-19 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "buttered_toast": "2025-07-19 04:09:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/diamond_shears": {
+    "criteria": {
+      "criterion0": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/navy_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/wine_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-07-19 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/spring_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-07-19 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/mint_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-07-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "ae2additions:recipes/misc/blocks/wireless_transceiver": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_toast_sandwich": {
+    "criteria": {
+      "has_toast": "2025-07-19 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/aquamarine_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 04:12:16 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/ultramarine_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "charginggadgets:recipes/redstone/charging_station": {
+    "criteria": {
+      "has_diamonds": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/restraining_order": {
+    "criteria": {
+      "has_lead": "2025-07-19 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-19 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/string": {
+    "criteria": {
+      "has_hemp_fiber": "2025-07-19 03:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-07-19 04:00:26 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
+    "criteria": {
+      "paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-07-19 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_tile_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_rope": {
+    "criteria": {
+      "has_hemp_fiber": "2025-07-19 03:36:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-19 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_paper_extra": {
+    "criteria": {
+      "has_material": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete": {
+    "criteria": {
+      "has_item": "2025-07-19 03:36:05 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-19 04:12:16 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/paper_extra": {
+    "criteria": {
+      "has_material": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-07-19 03:57:31 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "ae2additions:recipes/misc/super_cell_housing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/maroon_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/display_table": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/diamond_shard": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-19 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/glass_1x": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/lavender_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_bricks_from_tile_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-19 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-07-19 03:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+    "criteria": {
+      "has_raw_osmium": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "packingtape:recipes/tools/tape": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/diamond_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-07-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/misc/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
+    "criteria": {
+      "has_coal_block": "2025-07-19 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-19 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/diamond_from_shards": {
+    "criteria": {
+      "has_item": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-07-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-19 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hemp_fabric": {
+    "criteria": {
+      "has_hemp_fiber": "2025-07-19 03:36:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 03:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-19 03:51:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-07-19 04:12:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-19 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-07-19 03:50:01 +0000"
     },
     "done": true
   },

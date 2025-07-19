@@ -41,6 +41,7 @@
       "minecraft:windswept_forest": "2025-07-18 22:59:20 +0000",
       "minecraft:jungle": "2025-07-18 20:26:01 +0000",
       "minecraft:ocean": "2025-07-18 22:36:30 +0000",
+      "minecraft:windswept_savanna": "2025-07-19 03:28:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 02:13:33 +0000",
       "minecraft:meadow": "2025-07-18 20:20:58 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-18 19:07:09 +0000",
@@ -2818,6 +2819,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-07-19 03:36:47 +0000",
       "highland": "2025-07-18 19:11:14 +0000",
       "jacaranda_glade": "2025-07-19 02:32:56 +0000",
       "marsh": "2025-07-19 03:05:05 +0000",
@@ -2836,7 +2838,8 @@
       "fir_clearing": "2025-07-18 19:11:41 +0000",
       "pumpkin_patch": "2025-07-18 19:20:43 +0000",
       "prairie": "2025-07-18 20:02:48 +0000",
-      "gravel_beach": "2025-07-18 19:21:54 +0000"
+      "gravel_beach": "2025-07-18 19:21:54 +0000",
+      "rainforest": "2025-07-19 04:13:34 +0000"
     },
     "done": false
   },
@@ -9451,6 +9454,950 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-19 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/balloon": {
+    "criteria": {
+      "has_hemp_fabric": "2025-07-19 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_sandstone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-07-19 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_module": {
+    "criteria": {
+      "has_charging_station": "2025-07-19 03:29:43 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_default_storage_self": {
+    "criteria": {
+      "has_logistics_frame_default_storage": "2025-07-19 03:50:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_wrench_charged": {
+    "criteria": {
+      "0": "2025-07-19 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_cream_stone_bricks": "2025-07-19 04:01:52 +0000",
+      "has_item2_domum_ornamentum_cream_stone_bricks": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2025-07-19 03:29:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-07-19 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/smart_chest": {
+    "criteria": {
+      "has_reinforced_chest": "2025-07-19 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/tiny_charcoal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-07-19 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ersatz_leather": {
+    "criteria": {
+      "has_hemp_fabric": "2025-07-19 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_grip": {
+    "criteria": {
+      "has_treated_sticks": "2025-07-19 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/generator": {
+    "criteria": {
+      "has_component_iron": "2025-07-19 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-07-19 03:34:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/tag_workbench": {
+    "criteria": {
+      "has_display_table": "2025-07-19 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-07-19 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_chest_kit": {
+    "criteria": {
+      "has_reinforced_chest": "2025-07-19 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:air_compressor": {
+    "criteria": {
+      "0": "2025-07-19 03:29:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cushion": {
+    "criteria": {
+      "has_hemp_fabric": "2025-07-19 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_cream_bricks": "2025-07-19 04:01:52 +0000",
+      "has_item1_domum_ornamentum_cream_bricks": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
+    "criteria": {
+      "has_treated_sticks": "2025-07-19 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-19 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 03:47:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-19 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/aphorism_tile_reset": {
+    "criteria": {
+      "has_aphorism_tile": "2025-07-19 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-07-19 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-07-19 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-19 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_fence": {
+    "criteria": {
+      "has_treated_sticks": "2025-07-19 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-07-19 03:59:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-07-19 03:27:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/glider": {
+    "criteria": {
+      "has_hemp_fabric": "2025-07-19 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-07-19 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-07-19 04:00:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/windmill_sail": {
+    "criteria": {
+      "has_hemp_fabric": "2025-07-19 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:aphorism_tile": {
+    "criteria": {
+      "0": "2025-07-19 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-07-19 03:59:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/basalt_1x": {
+    "criteria": {
+      "has_basalt": "2025-07-19 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2025-07-19 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 03:44:00 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_gauge_module": {
+    "criteria": {
+      "has_pressure_gauge": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_wrench": {
+    "criteria": {
+      "0": "2025-07-19 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-19 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-19 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-07-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/basalt_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-19 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
+    "criteria": {
+      "has_coal_block": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/bearing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-07-19 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_trapped_soliciting_carpet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/safety_tube_module": {
+    "criteria": {
+      "has_pressure_gauge": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-07-19 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-19 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-07-19 03:27:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 03:50:52 +0000"
     },
     "done": true
   },
