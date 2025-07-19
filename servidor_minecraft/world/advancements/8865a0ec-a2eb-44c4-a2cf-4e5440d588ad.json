@@ -1122,6 +1122,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-19 02:18:54 +0000",
       "chicken": "2025-07-18 19:55:59 +0000",
       "honey_bottle": "2025-07-18 21:26:34 +0000",
       "cooked_mutton": "2025-07-18 22:11:23 +0000",
@@ -7558,6 +7559,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-07-19 02:26:16 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/liquid_trash_can": {
     "criteria": {
       "recipe_condition": "2025-07-19 02:10:45 +0000"
@@ -7573,6 +7580,12 @@
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2025-07-19 02:07:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-07-19 02:26:16 +0000"
     },
     "done": true
   },

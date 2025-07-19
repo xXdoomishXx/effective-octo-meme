@@ -7787,6 +7787,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_brick_tile_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-07-19 02:08:13 +0000"
@@ -7799,9 +7805,33 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/manual_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_tile_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_cannon": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-19 02:24:21 +0000"
     },
     "done": true
   },
@@ -7817,6 +7847,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/tube_junction": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-07-19 02:08:13 +0000"
@@ -7829,9 +7865,45 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-19 02:26:52 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
     "criteria": {
       "has_item": "2025-07-19 02:09:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
     },
     "done": true
   },
@@ -7841,15 +7913,51 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_station": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-07-19 02:08:13 +0000"
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/air_grate_module": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-07-19 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-19 02:24:21 +0000"
     },
     "done": true
   },
@@ -7865,6 +7973,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-19 02:24:22 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-07-19 02:08:13 +0000"
@@ -7874,6 +7988,24 @@
   "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
     "criteria": {
       "has_coal_block": "2025-07-19 02:09:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-07-19 02:24:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/spawner_extractor": {
+    "criteria": {
+      "has_spawner_agitator": "2025-07-19 02:24:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stone_gear_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 02:24:24 +0000"
     },
     "done": true
   },

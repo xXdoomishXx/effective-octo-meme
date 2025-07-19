@@ -2824,6 +2824,7 @@
       "coniferous_forest": "2025-07-18 19:12:11 +0000",
       "forested_field": "2025-07-18 19:45:51 +0000",
       "redwood_forest": "2025-07-18 19:23:37 +0000",
+      "aspen_glade": "2025-07-19 02:20:38 +0000",
       "dune_beach": "2025-07-18 22:36:16 +0000",
       "seasonal_forest": "2025-07-18 19:21:51 +0000",
       "fir_clearing": "2025-07-18 19:11:41 +0000",
@@ -9117,6 +9118,54 @@
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-07-19 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/manual_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_cannon": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/tube_junction": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-19 02:26:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_station": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_grate_module": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-19 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-07-19 02:23:02 +0000"
     },
     "done": true
   },

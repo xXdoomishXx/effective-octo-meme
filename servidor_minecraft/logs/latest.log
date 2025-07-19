@@ -1970,3 +1970,26 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 02:20:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Creative Mode]
 [19Jul2025 02:20:58.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
 [19Jul2025 02:21:18.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Jul2025 02:21:37.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19Jul2025 02:21:55.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[19Jul2025 02:23:02.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Totally Tubular Transfer]
+[19Jul2025 02:24:14.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Totally Tubular Transfer]
+[19Jul2025 02:24:38.497] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chato26898 is 47a79f28-9378-41c4-8f9e-a5398d34c4e8
+[19Jul2025 02:24:50.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chato26898[/127.35.160.186:37485] logged in with entity id 20785 at (244.5, 66.0, -153.5)
+[19Jul2025 02:24:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 joined the game
+[19Jul2025 02:24:51.332] [Server thread/INFO] [Jade/]: Syncing config to Chato26898 (47a79f28-9378-41c4-8f9e-a5398d34c4e8)
+[19Jul2025 02:25:40.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Survival Mode]
+[19Jul2025 02:26:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has reached the goal [Pray to the Goddess]
+[19Jul2025 02:26:52.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has reached the goal [Pray to the Goddess]
+[19Jul2025 02:27:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> -8968155878625921539
+[19Jul2025 02:27:12.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chato26898 lost connection: Disconnected
+[19Jul2025 02:27:12.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 left the game
+[19Jul2025 02:27:37.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Jul2025 02:28:42.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Your First Receptacle]
+[19Jul2025 02:29:05.422] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Jul2025 02:29:11.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Where Is The Stone Pen?]
+[19Jul2025 02:29:14.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killerprank125 has made the advancement [Warped]
+[19Jul2025 02:30:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Creative Mode]
+[19Jul2025 02:31:19.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Survival Mode]
+[19Jul2025 02:32:03.283] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set 9-Chevron Address to -30-1-12-27-18-7-16-26-
+[19Jul2025 02:32:03.284] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Stargate -30-1-12-27-18-7-16-26- to BlockEntityList
