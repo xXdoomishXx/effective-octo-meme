@@ -12152,9 +12152,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/platinum_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-19 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 19:59:16 +0000"
     },
     "done": true
   },
@@ -12167,6 +12185,12 @@
   "reliquary:recipes/misc/gold_nugget": {
     "criteria": {
       "has_empty_bullet": "2025-07-19 18:40:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:59:16 +0000"
     },
     "done": true
   },
@@ -12188,6 +12212,12 @@
     },
     "done": true
   },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 19:59:16 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/brass_dust_from_ingot": {
     "criteria": {
       "has_brass_ingot": "2025-07-19 18:46:53 +0000"
@@ -12200,9 +12230,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-19 19:57:08 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
     "criteria": {
       "shard": "2025-07-19 19:00:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 19:54:46 +0000"
     },
     "done": true
   },
@@ -12248,6 +12290,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-07-19 19:59:16 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/bort_from_block": {
     "criteria": {
       "has_item": "2025-07-19 19:07:35 +0000"
@@ -12257,6 +12311,12 @@
   "dyenamics:recipes/misc/dye_persimmon_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 19:59:16 +0000"
     },
     "done": true
   },
@@ -12272,9 +12332,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:52:29 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_aquamarine_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 19:59:16 +0000"
     },
     "done": true
   },
@@ -12293,6 +12365,12 @@
   "alltheores:recipes/misc/platinum_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-07-19 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 19:59:16 +0000"
     },
     "done": true
   },
@@ -12332,6 +12410,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-07-19 19:59:16 +0000"
+    },
+    "done": true
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-07-19 19:07:12 +0000"
@@ -12362,6 +12446,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/brass_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-07-19 18:46:53 +0000"
@@ -12386,6 +12476,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-19 19:55:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-07-19 18:46:53 +0000"
@@ -12401,6 +12497,12 @@
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead3": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:54:45 +0000"
     },
     "done": true
   },
@@ -12422,9 +12524,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-19 19:58:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-07-19 19:59:16 +0000"
     },
     "done": true
   },
@@ -12470,6 +12584,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 19:59:16 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/arcane_crystal_dust": {
     "criteria": {
       "has_arcane_crystal_dust_speck": "2025-07-19 18:12:27 +0000"
@@ -12479,6 +12605,18 @@
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 19:54:46 +0000"
     },
     "done": true
   },
@@ -12512,15 +12650,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 19:54:46 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/dye_lavender_carpet": {
     "criteria": {
       "has_white_carpet": "2025-07-19 18:14:33 +0000"
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-19 19:59:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2025-07-19 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-07-19 19:59:16 +0000"
     },
     "done": true
   },
