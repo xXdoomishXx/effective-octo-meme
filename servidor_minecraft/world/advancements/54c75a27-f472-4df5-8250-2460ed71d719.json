@@ -4609,6 +4609,7 @@
       "fir_clearing": "2025-07-19 03:36:00 +0000",
       "prairie": "2025-07-18 21:31:11 +0000",
       "grassland": "2025-07-19 04:05:40 +0000",
+      "gravel_beach": "2025-07-19 23:10:22 +0000",
       "undergrowth": "2025-07-19 19:42:44 +0000"
     },
     "done": false
@@ -7771,6 +7772,13 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/sand_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_sand_stone_bricks": "2025-07-19 23:12:24 +0000",
+      "has_item2_domum_ornamentum_sand_stone_bricks": "2025-07-19 23:12:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-07-19 20:20:15 +0000"
@@ -8362,6 +8370,12 @@
   "additionallanterns:recipes/misc/stone_chain": {
     "criteria": {
       "recipe_condition": "2025-07-19 19:02:30 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/sand_1x": {
+    "criteria": {
+      "has_sand": "2025-07-19 23:12:24 +0000"
     },
     "done": true
   },
@@ -9031,6 +9045,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2025-07-19 23:10:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
@@ -9679,6 +9699,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/snad/snad": {
+    "criteria": {
+      "has_sand": "2025-07-19 23:12:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-19 19:02:30 +0000"
@@ -9808,6 +9834,12 @@
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-07-19 19:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-19 23:12:24 +0000"
     },
     "done": true
   },
@@ -10036,6 +10068,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2025-07-19 23:10:34 +0000"
     },
     "done": true
   },
@@ -10297,6 +10335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-19 23:12:24 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
     "criteria": {
       "has_coal_block": "2025-07-19 20:36:28 +0000"
@@ -10510,6 +10554,13 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:31 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_sand_bricks": "2025-07-19 23:12:24 +0000",
+      "has_item1_domum_ornamentum_sand_bricks": "2025-07-19 23:12:24 +0000"
     },
     "done": true
   },

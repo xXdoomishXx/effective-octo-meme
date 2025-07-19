@@ -2137,3 +2137,17 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 23:01:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> le voy a quitar chunk enseguida
 [19Jul2025 23:01:29.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/84693, l='ServerLevel[world]', x=699.49, y=66.41, z=91.41] died: Undead Knight was slain by Wolf
 [19Jul2025 23:03:18.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito has made the advancement [To Die For]
+[19Jul2025 23:10:04.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/92331, l='ServerLevel[world]', x=540.06, y=72.41, z=-50.77] died: Undead Knight suffocated in a wall
+[19Jul2025 23:10:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance was shot by Skeleton
+[19Jul2025 23:10:40.296] [Server thread/INFO] [tombstone/]: The player MsTrance has successfully been saved
+[19Jul2025 23:10:41.592] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 23:10:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson burned to death
+[19Jul2025 23:10:44.797] [Server thread/INFO] [tombstone/]: The player Pepenson has successfully been saved
+[19Jul2025 23:10:46.835] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jul2025 23:10:49.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pizinito> desinstala
+[19Jul2025 23:17:43.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MsTrance lost connection: Disconnected
+[19Jul2025 23:17:43.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance left the game
+[19Jul2025 23:17:45.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson lost connection: Disconnected
+[19Jul2025 23:17:45.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson left the game
+[19Jul2025 23:18:49.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito has made the advancement [Sky of Beginning]
+[19Jul2025 23:19:50.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Spooky Scary Skeleton]
