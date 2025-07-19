@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 1495, y: 65, z: 225, time: 1752964402216L, xRot: 10.799827f, yRot: -95.1012f }
+	last_seen: { dim: "minecraft:overworld", x: 785, y: 64, z: -275, time: 1752968620129L, xRot: 14.849859f, yRot: 135.33154f }
 	recording: "none"
 	teleport_history: [ ]
 	homes: { }

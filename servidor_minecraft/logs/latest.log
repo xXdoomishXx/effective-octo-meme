@@ -2151,3 +2151,5 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 23:17:45.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson left the game
 [19Jul2025 23:18:49.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito has made the advancement [Sky of Beginning]
 [19Jul2025 23:19:50.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Spooky Scary Skeleton]
+[19Jul2025 23:43:40.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pizinito lost connection: Disconnected
+[19Jul2025 23:43:40.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pizinito left the game

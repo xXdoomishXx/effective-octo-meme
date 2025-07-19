@@ -12283,6 +12283,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/osmium_block_1x": {
+    "criteria": {
+      "has_osmium_block": "2025-07-19 23:40:47 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_ingot_from_block": {
     "criteria": {
       "has_item": "2025-07-19 23:08:42 +0000"
@@ -12550,6 +12556,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-07-19 22:53:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-07-19 23:40:47 +0000"
     },
     "done": true
   },
