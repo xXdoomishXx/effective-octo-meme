@@ -7555,6 +7555,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 18:58:22 +0000"
@@ -7681,6 +7687,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-07-19 18:58:22 +0000"
@@ -7795,6 +7813,12 @@
     },
     "done": true
   },
+  "appmek:recipes/misc/chemical_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 19:01:54 +0000"
@@ -7861,6 +7885,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
@@ -7876,6 +7906,12 @@
   "additionallanterns:recipes/misc/quartz_chain": {
     "criteria": {
       "recipe_condition": "2025-07-19 19:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -8011,6 +8047,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/redstone_information": {
+    "criteria": {
+      "redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_lead": {
     "criteria": {
       "has_lead_ingot": "2025-07-19 18:43:13 +0000"
@@ -8029,6 +8071,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 19:01:54 +0000"
@@ -8044,6 +8092,12 @@
   "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -8134,6 +8188,12 @@
   "additionallanterns:recipes/misc/andesite_chain": {
     "criteria": {
       "recipe_condition": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -8245,6 +8305,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-07-19 18:58:22 +0000"
@@ -8272,6 +8338,12 @@
   "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
     "criteria": {
       "has_quartz_gem": "2025-07-19 19:44:31 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/dimmable_redstone_lamp": {
+    "criteria": {
+      "criterion1": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -8308,6 +8380,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/workbench": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -8575,6 +8653,24 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/screen_link": {
+    "criteria": {
+      "redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2025-07-19 19:02:30 +0000"
@@ -8839,6 +8935,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/building_blocks/reactor/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-19 18:08:08 +0000"
@@ -8884,6 +8986,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -8938,6 +9046,12 @@
   "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -9271,6 +9385,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/paper_extra": {
     "criteria": {
       "has_material": "2025-07-19 19:17:57 +0000"
@@ -9304,6 +9424,12 @@
   "alltheores:recipes/misc/lead_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-07-19 18:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -9373,6 +9499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-07-19 19:02:30 +0000"
@@ -9427,6 +9559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-07-19 19:44:31 +0000"
@@ -9448,6 +9586,18 @@
   "silentgear:recipes/misc/diamond_shard": {
     "criteria": {
       "has_item": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -9478,6 +9628,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-19 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -9559,6 +9715,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:31 +0000"
@@ -9580,6 +9742,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
     "criteria": {
       "has_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -9637,6 +9805,12 @@
     },
     "done": true
   },
+  "modularrouters:recipes/misc/blank_module": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
     "criteria": {
       "has_paper": "2025-07-19 19:17:57 +0000"
@@ -9688,6 +9862,12 @@
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-07-19 19:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -9751,6 +9931,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:35:32 +0000"
@@ -9766,6 +9952,18 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 18:27:28 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/redstone_clock": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
@@ -9793,6 +9991,12 @@
     },
     "done": true
   },
+  "rftoolscontrol:recipes/rftoolscontrol/card_base": {
+    "criteria": {
+      "redstone": "2025-07-19 20:20:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-19 18:58:22 +0000"
@@ -9802,6 +10006,12 @@
   "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-07-19 19:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-07-19 20:20:15 +0000"
     },
     "done": true
   },
