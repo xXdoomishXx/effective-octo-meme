@@ -7524,6 +7524,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-19 21:52:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
       "has_raw_nickel": "2025-07-19 18:02:30 +0000"
@@ -9097,6 +9103,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-19 21:52:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-07-19 18:28:20 +0000"
@@ -9784,6 +9796,12 @@
   "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 20:21:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2025-07-19 21:52:48 +0000"
     },
     "done": true
   },

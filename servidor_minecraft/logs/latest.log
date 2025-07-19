@@ -2022,3 +2022,5 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Jul2025 21:36:26.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 0.6383839460690979
 [19Jul2025 21:36:26.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 0.6383839460690979
 [19Jul2025 21:36:26.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 0.6383839460690979
+[19Jul2025 21:56:23.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/66034, l='ServerLevel[world]', x=628.21, y=82.62, z=-575.87] died: Honeyed Archer suffocated in a wall
+[19Jul2025 22:03:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson has made the advancement [Mine Turtle!]
