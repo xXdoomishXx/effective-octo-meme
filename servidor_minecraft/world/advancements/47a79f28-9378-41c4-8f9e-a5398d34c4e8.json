@@ -2819,6 +2819,7 @@
       "floodplain": "2025-07-19 04:28:10 +0000",
       "jacaranda_glade": "2025-07-19 03:24:55 +0000",
       "marsh": "2025-07-19 03:21:10 +0000",
+      "crystalline_chasm": "2025-07-20 01:18:22 +0000",
       "orchard": "2025-07-19 03:24:37 +0000",
       "coniferous_forest": "2025-07-19 05:42:16 +0000",
       "dune_beach": "2025-07-19 03:27:00 +0000",
@@ -4218,9 +4219,10 @@
   },
   "silentgear:crimson_iron": {
     "criteria": {
+      "get_ore": "2025-07-20 01:18:30 +0000",
       "get_ingot": "2025-07-19 03:41:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "silentgear:recipes/misc/crimson_iron_dust_blasting": {
     "criteria": {
@@ -11034,9 +11036,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-20 01:18:16 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-07-20 01:20:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/platinum_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-20 00:57:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-07-20 01:19:17 +0000"
     },
     "done": true
   },
@@ -11052,9 +11072,39 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_iron_raw_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-07-20 01:18:30 +0000"
+    },
+    "done": true
+  },
   "pylons:recipes/misc/infusion_pylon": {
     "criteria": {
       "has_emerald_block": "2025-07-20 01:04:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/raw_crimson_iron_from_block": {
+    "criteria": {
+      "has_item": "2025-07-20 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-20 01:19:17 +0000"
     },
     "done": true
   },
@@ -11070,9 +11120,27 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_crimson_iron": "2025-07-20 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reprocessor/powerport": {
+    "criteria": {
+      "has_item2": "2025-07-20 01:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-20 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-20 01:19:17 +0000"
     },
     "done": true
   },
@@ -11082,9 +11150,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/fluidizer/powerport": {
+    "criteria": {
+      "has_item2": "2025-07-20 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/platinum_dust_from_ingot": {
     "criteria": {
       "has_platinum_ingot": "2025-07-20 00:57:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-20 01:19:17 +0000"
     },
     "done": true
   },
@@ -11100,9 +11192,57 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-20 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-07-20 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/misc/crafting/graphite_component_to_storage": {
     "criteria": {
       "has_item": "2025-07-20 01:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-20 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-07-20 01:20:50 +0000"
     },
     "done": true
   },
@@ -11118,9 +11258,75 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/raw_crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-07-20 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-07-20 01:23:05 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/platinum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-20 00:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-20 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_raw_ore_smelting": {
+    "criteria": {
+      "has_item": "2025-07-20 01:18:30 +0000"
     },
     "done": true
   },

@@ -61,3 +61,12 @@
 [20Jul2025 01:18:15.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson moved too quickly! -0.29497877498783964,-0.14168517272452164,-10.044597006645972
 [20Jul2025 01:18:18.959] [Worker-Main-114/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/131105, l='ServerLevel[world]', x=-127.10, y=31.00, z=128.90] as it would cause deadlock
 [20Jul2025 01:18:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 has made the advancement [Crimson Iron]
+[20Jul2025 01:19:00.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has completed the challenge [Cannibal]
+[20Jul2025 01:19:11.464] [Worker-Main-301/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/131586, l='ServerLevel[world]', x=195.00, y=31.00, z=204.00] as it would cause deadlock
+[20Jul2025 01:19:47.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Isn't It Iron Pick]
+[20Jul2025 01:20:32.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson moved wrongly!
+[20Jul2025 01:24:58.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [First Age]
+[20Jul2025 01:26:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Sweet Dreams]
+[20Jul2025 01:26:17.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Knowledge of Death]
+[20Jul2025 01:26:17.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Ambush]
+[20Jul2025 01:26:17.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Monster Hunter]
