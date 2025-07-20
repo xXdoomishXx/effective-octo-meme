@@ -2040,6 +2040,8 @@
       "cooked_mutton": "2025-07-18 20:54:10 +0000",
       "cooked_beef": "2025-07-18 19:03:21 +0000",
       "baked_potato": "2025-07-19 05:47:12 +0000",
+      "apple": "2025-07-20 00:02:44 +0000",
+      "cooked_cod": "2025-07-20 00:05:12 +0000",
       "bread": "2025-07-18 21:34:50 +0000",
       "cookie": "2025-07-19 05:51:38 +0000",
       "melon_slice": "2025-07-18 21:04:57 +0000",
@@ -12610,6 +12612,12 @@
   "pneumaticcraft:recipes/pressure_chamber/etching_acid": {
     "criteria": {
       "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-07-20 00:00:03 +0000"
     },
     "done": true
   },
