@@ -12,3 +12,52 @@
 [20Jul2025 00:47:25.727] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chato26898 is 47a79f28-9378-41c4-8f9e-a5398d34c4e8
 [20Jul2025 00:47:26.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4efc18ee[id=47a79f28-9378-41c4-8f9e-a5398d34c4e8,name=Chato26898,properties={textures=[com.mojang.authlib.properties.Property@156d79f6]},legacy=false] (/127.35.160.186:53065) lost connection: Disconnected
 [20Jul2025 00:47:40.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=767, y=69, z=-721} BlockPos{x=767, y=67, z=-721}
+[20Jul2025 00:48:11.469] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chato26898 is 47a79f28-9378-41c4-8f9e-a5398d34c4e8
+[20Jul2025 00:48:23.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chato26898[/127.35.160.186:52085] logged in with entity id 118273 at (945.7890566253909, -50.0, -161.62499273226345)
+[20Jul2025 00:48:23.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 joined the game
+[20Jul2025 00:48:24.091] [Server thread/INFO] [Jade/]: Syncing config to Chato26898 (47a79f28-9378-41c4-8f9e-a5398d34c4e8)
+[20Jul2025 00:49:33.980] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[20Jul2025 00:54:47.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 has made the advancement [Spooky Scary Skeleton]
+[20Jul2025 00:55:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fimo0> dc
+[20Jul2025 01:07:23.442] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MsTrance is 54c75a27-f472-4df5-8250-2460ed71d719
+[20Jul2025 01:07:35.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MsTrance[/127.68.39.133:50341] logged in with entity id 125135 at (526.7917579440605, 91.0, -444.1489209385281)
+[20Jul2025 01:07:35.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance joined the game
+[20Jul2025 01:07:35.965] [Server thread/INFO] [Jade/]: Syncing config to MsTrance (54c75a27-f472-4df5-8250-2460ed71d719)
+[20Jul2025 01:08:32.108] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20Jul2025 01:08:32.109] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20Jul2025 01:09:11.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson lost connection: Disconnected
+[20Jul2025 01:09:11.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson left the game
+[20Jul2025 01:10:20.319] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vallanx_ is 04b6b878-3ce5-4309-a869-a38d24f43de9
+[20Jul2025 01:10:32.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vallanx_[/127.28.6.213:40381] logged in with entity id 126418 at (248.5, 67.0, -149.5)
+[20Jul2025 01:10:32.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ joined the game
+[20Jul2025 01:10:32.843] [Server thread/INFO] [Jade/]: Syncing config to vallanx_ (04b6b878-3ce5-4309-a869-a38d24f43de9)
+[20Jul2025 01:10:50.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Creative Mode]
+[20Jul2025 01:11:00.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vallanx_> AYUDA
+[20Jul2025 01:11:16.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vallanx_> como
+[20Jul2025 01:11:17.827] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepenson is 8865a0ec-a2eb-44c4-a2cf-4e5440d588ad
+[20Jul2025 01:11:25.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> hola
+[20Jul2025 01:11:30.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepenson[/127.48.179.90:51229] logged in with entity id 126842 at (753.720418198737, 63.0, -767.4705037469935)
+[20Jul2025 01:11:30.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson joined the game
+[20Jul2025 01:11:30.444] [Server thread/INFO] [Jade/]: Syncing config to Pepenson (8865a0ec-a2eb-44c4-a2cf-4e5440d588ad)
+[20Jul2025 01:11:33.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vallanx_> habla tanke
+[20Jul2025 01:11:44.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Fimo0> "/tpa "
+[20Jul2025 01:12:20.995] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from vallanx_#04b6b878 to Chato26898_s_Party#60a26495
+[20Jul2025 01:12:20.996] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 04b6b878-3ce5-4309-a869-a38d24f43de9 (vallanx_#04b6b878) to 60a26495-dcc6-4461-ba07-1dd9bb9d33e2 (Chato26898_s_Party#60a26495)
+[20Jul2025 01:12:20.996] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 04b6b878-3ce5-4309-a869-a38d24f43de9 (vallanx_#04b6b878) due to claim limits
+[20Jul2025 01:12:20.996] [Server thread/INFO] [FTB Chunks/]: Team Chato26898_s_Party#60a26495 had 81 claimed chunks, now has 81
+[20Jul2025 01:12:30.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <vallanx_> discord se puede?
+[20Jul2025 01:15:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MsTrance> ilegal eso
+[20Jul2025 01:15:40.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Chato26898> e mentira
+[20Jul2025 01:15:46.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Acquire Hardware]
+[20Jul2025 01:15:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Spooky Scary Skeleton]
+[20Jul2025 01:15:46.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Handyman]
+[20Jul2025 01:15:46.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Stone Age]
+[20Jul2025 01:15:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Diamonds!]
+[20Jul2025 01:16:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MsTrance: Set own game mode to Survival Mode]
+[20Jul2025 01:17:00.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [A True Source of Evil]
+[20Jul2025 01:17:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Tools of the Trade]
+[20Jul2025 01:18:13.835] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[20Jul2025 01:18:13.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 has made the advancement [We Need to Go Deeper]
+[20Jul2025 01:18:15.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson moved too quickly! -0.29497877498783964,-0.14168517272452164,-10.044597006645972
+[20Jul2025 01:18:18.959] [Worker-Main-114/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/131105, l='ServerLevel[world]', x=-127.10, y=31.00, z=128.90] as it would cause deadlock
+[20Jul2025 01:18:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 has made the advancement [Crimson Iron]

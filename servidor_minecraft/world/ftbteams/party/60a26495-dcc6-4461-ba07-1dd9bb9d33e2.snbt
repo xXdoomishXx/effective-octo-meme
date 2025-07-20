@@ -5,6 +5,7 @@
 	ranks: {
 		b3d5dc87-8384-4731-89ca-dd6e9c5fb4fa: "member"
 		47a79f28-9378-41c4-8f9e-a5398d34c4e8: "owner"
+		04b6b878-3ce5-4309-a869-a38d24f43de9: "member"
 		f41d5ed6-ba9c-4c2e-9a74-6ef873169d2d: "member"
 		54c75a27-f472-4df5-8250-2460ed71d719: "invited"
 	}
@@ -40,6 +41,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752897033740L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pizinito\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752965919596L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pizinito\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752965950135L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pepenson\"}]}" }
+		{ from: "47a79f28-9378-41c4-8f9e-a5398d34c4e8", date: 1752973936690L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"vallanx_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752973940981L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"vallanx_\"}]}" }
 	]
 	extra: { }
 }

@@ -12280,6 +12280,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/platinum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-20 01:07:55 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/energizer/powerport_fe_active": {
     "criteria": {
       "has_item2": "2025-07-19 23:14:56 +0000"
@@ -12640,6 +12646,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/platinum_dust_from_ingot": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-20 01:07:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-07-19 22:32:47 +0000"
@@ -12655,6 +12667,12 @@
   "botania:recipes/decorations/turntable": {
     "criteria": {
       "has_alt_item": "2025-07-19 22:32:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-20 01:07:55 +0000"
     },
     "done": true
   },
@@ -13096,6 +13114,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/platinum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-20 01:07:55 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/maroon_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 00:23:14 +0000"
@@ -13396,6 +13420,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/platinum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-20 01:07:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_light_blue": {
     "criteria": {
       "has_item": "2025-07-19 23:02:47 +0000"
@@ -13441,6 +13471,12 @@
   "pneumaticcraft:recipes/pressure_chamber/compressed_stone": {
     "criteria": {
       "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-07-20 01:07:55 +0000"
     },
     "done": true
   },
