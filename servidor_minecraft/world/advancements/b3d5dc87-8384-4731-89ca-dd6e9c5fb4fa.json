@@ -2965,8 +2965,10 @@
       "minecraft:skeleton": "2025-07-18 19:16:21 +0000",
       "minecraft:ravager": "2025-07-19 02:40:07 +0000",
       "minecraft:spider": "2025-07-18 19:12:28 +0000",
+      "minecraft:creeper": "2025-07-20 01:29:30 +0000",
       "minecraft:phantom": "2025-07-19 05:27:28 +0000",
       "minecraft:silverfish": "2025-07-18 22:22:43 +0000",
+      "minecraft:enderman": "2025-07-20 01:29:41 +0000",
       "minecraft:vex": "2025-07-19 02:43:18 +0000",
       "minecraft:zombie": "2025-07-18 19:13:03 +0000"
     },
@@ -12508,6 +12510,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-20 01:54:08 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
     "criteria": {
       "has_item": "2025-07-19 23:08:55 +0000"
@@ -12907,6 +12915,12 @@
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-07-20 00:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-20 01:35:08 +0000"
     },
     "done": true
   },

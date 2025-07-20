@@ -70,3 +70,112 @@
 [20Jul2025 01:26:17.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Knowledge of Death]
 [20Jul2025 01:26:17.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Ambush]
 [20Jul2025 01:26:17.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Monster Hunter]
+[20Jul2025 01:30:13.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 was slain by Zombie
+[20Jul2025 01:30:13.850] [Server thread/INFO] [tombstone/]: The player Fimo0 has successfully been saved
+[20Jul2025 01:30:33.240] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 01:33:28.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [A Strange Grave Dust]
+[20Jul2025 01:34:48.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Suit Up]
+[20Jul2025 01:35:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Voluntary Exile]
+[20Jul2025 01:35:37.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=64, z=285} BlockPos{x=396, y=62, z=287}
+[20Jul2025 01:37:04.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [I Found It Underground]
+[20Jul2025 01:37:04.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Apothic Affixes]
+[20Jul2025 01:42:06.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has reached the goal [Worthy Equipment]
+[20Jul2025 01:48:15.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 1.9897339366624072
+[20Jul2025 01:48:15.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 1.8035036880621564
+[20Jul2025 01:48:15.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 1.5909485148364593
+[20Jul2025 01:48:15.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 1.2913850735840242
+[20Jul2025 01:48:15.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 0.9821982001952975
+[20Jul2025 01:48:15.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 0.6914503794111511
+[20Jul2025 01:48:15.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved wrongly! 1.601242967827261
+[20Jul2025 01:48:18.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ has made the advancement [Ashes 'n Bones]
+[20Jul2025 01:48:29.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved too quickly! 7.471779134496387,-1.8085427212883474,9.1545381538985
+[20Jul2025 01:48:29.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Pepenson) moved too quickly! 6.901046658843143,-1.6566876890575202,8.378709709364841
+[20Jul2025 01:48:56.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chato26898 lost connection: Disconnected
+[20Jul2025 01:48:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chato26898 left the game
+[20Jul2025 01:54:08.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has reached the goal [Waterworld]
+[20Jul2025 01:59:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[20Jul2025 01:59:22.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...raw @a [
+  {"text":"[","color":"dark_red","bold":true},
+  {"text":"A","color":"red","bold":true},
+  {"text":"V","color":"gold","bold":true},
+  {"text":"I","color":"yellow","bold":true},
+  {"text":"S","color":"green","bold":true},
+  {"text":"O","color":"aqua","bold":true},
+  {"text":"] ","color":"dark_red","bold":true},
+  {"text":"¡El servidor se reiniciará en ","color":"light_purple","bold":true},
+  {"text":"1 MINUTOS","color":"red","bold":true},
+  {"text":"! ¡Guardá tus cosas!","color":"gold","bold":true}
+]<--[HERE]
+[20Jul2025 02:00:51.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fimo0 lost connection: Disconnected
+[20Jul2025 02:00:51.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 left the game
+[20Jul2025 02:00:52.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vallanx_ lost connection: Disconnected
+[20Jul2025 02:00:52.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vallanx_ left the game
+[20Jul2025 02:00:56.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepenson lost connection: Disconnected
+[20Jul2025 02:00:56.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson left the game
+[20Jul2025 02:01:03.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MsTrance lost connection: Disconnected
+[20Jul2025 02:01:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MsTrance left the game
+[20Jul2025 02:01:08.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Jul2025 02:01:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jul2025 02:01:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jul2025 02:01:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jul2025 02:01:08.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jul2025 02:01:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[20Jul2025 02:01:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[20Jul2025 02:01:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[20Jul2025 02:01:08.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:abydos
+[20Jul2025 02:01:08.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jul2025 02:01:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[20Jul2025 02:01:08.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:cavum_tenebrae
+[20Jul2025 02:01:08.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jul2025 02:01:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[20Jul2025 02:01:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[20Jul2025 02:01:08.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[20Jul2025 02:01:08.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:chulak
+[20Jul2025 02:01:08.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[20Jul2025 02:01:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Jul2025 02:01:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sgjourney:lantea
+[20Jul2025 02:01:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[20Jul2025 02:01:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[20Jul2025 02:01:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[20Jul2025 02:01:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[20Jul2025 02:01:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[20Jul2025 02:01:08.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[20Jul2025 02:01:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20Jul2025 02:01:08.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[20Jul2025 02:01:08.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[20Jul2025 02:01:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[20Jul2025 02:01:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[20Jul2025 02:01:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jul2025 02:01:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[20Jul2025 02:01:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[20Jul2025 02:01:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[20Jul2025 02:01:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abydos): All chunks are saved
+[20Jul2025 02:01:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jul2025 02:01:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cavum_tenebrae): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (chulak): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lantea): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[20Jul2025 02:01:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[20Jul2025 02:01:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Jul2025 02:01:09.482] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[20Jul2025 02:01:09.482] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[20Jul2025 02:01:10.483] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[20Jul2025 02:01:10.483] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[20Jul2025 02:01:10.662] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Jul2025 02:01:10.667] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
