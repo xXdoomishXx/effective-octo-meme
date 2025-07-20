@@ -56,6 +56,7 @@
       "minecraft:forest": "2025-07-18 18:44:25 +0000",
       "minecraft:lush_caves": "2025-07-19 17:57:20 +0000",
       "minecraft:desert": "2025-07-19 04:52:17 +0000",
+      "minecraft:windswept_forest": "2025-07-20 04:18:11 +0000",
       "minecraft:jungle": "2025-07-18 20:28:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 04:22:12 +0000",
       "minecraft:meadow": "2025-07-18 20:21:27 +0000",
@@ -1130,7 +1131,9 @@
       "honey_bottle": "2025-07-18 21:26:34 +0000",
       "cooked_mutton": "2025-07-18 22:11:23 +0000",
       "cooked_beef": "2025-07-18 19:58:12 +0000",
+      "baked_potato": "2025-07-20 02:44:41 +0000",
       "apple": "2025-07-19 03:41:43 +0000",
+      "potato": "2025-07-20 02:36:21 +0000",
       "cooked_cod": "2025-07-19 18:06:11 +0000",
       "bread": "2025-07-18 19:20:52 +0000",
       "golden_apple": "2025-07-19 18:26:34 +0000",
@@ -2146,6 +2149,7 @@
       "minecraft:enderman": "2025-07-18 22:06:06 +0000",
       "minecraft:silverfish": "2025-07-18 22:21:14 +0000",
       "minecraft:zombie": "2025-07-18 19:11:56 +0000",
+      "minecraft:drowned": "2025-07-20 04:19:01 +0000",
       "minecraft:zombie_villager": "2025-07-18 19:15:25 +0000"
     },
     "done": false
@@ -2534,6 +2538,7 @@
       "turnip_seed": "2025-07-18 21:14:44 +0000",
       "cabbage_seed": "2025-07-18 21:12:19 +0000",
       "blueberry_seed": "2025-07-18 19:22:10 +0000",
+      "leek_seed": "2025-07-20 02:38:34 +0000",
       "zucchini_seed": "2025-07-18 21:12:25 +0000"
     },
     "done": false
@@ -5913,6 +5918,7 @@
   },
   "croptopia:gather_savanna": {
     "criteria": {
+      "leek_seed": "2025-07-20 02:38:34 +0000",
       "zucchini_seed": "2025-07-18 21:12:25 +0000"
     },
     "done": false
@@ -5949,7 +5955,8 @@
   },
   "croptopia:gather_jungle": {
     "criteria": {
-      "turnip_seed": "2025-07-18 21:14:44 +0000"
+      "turnip_seed": "2025-07-18 21:14:44 +0000",
+      "pineapple_seed": "2025-07-20 02:38:36 +0000"
     },
     "done": false
   },
@@ -9014,7 +9021,8 @@
   "croptopia:gather_food": {
     "criteria": {
       "buttered_toast": "2025-07-19 04:09:36 +0000",
-      "toast": "2025-07-19 05:19:25 +0000"
+      "toast": "2025-07-19 05:19:25 +0000",
+      "calamari": "2025-07-20 03:42:54 +0000"
     },
     "done": false
   },
@@ -14500,12 +14508,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "potato": "2025-07-20 01:22:15 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-20 01:19:59 +0000"
@@ -14518,9 +14520,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-20 01:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-20 01:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-07-20 01:22:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-20 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-20 01:26:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-07-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-07-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-07-20 01:52:05 +0000"
     },
     "done": true
   },
@@ -14542,27 +14610,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-20 01:26:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_copper": {
-    "criteria": {
-      "has_plate": "2025-07-20 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-07-20 01:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-07-20 01:48:02 +0000"
+      "has_item": "2025-07-20 01:53:57 +0000"
     },
     "done": true
   },
@@ -14572,45 +14622,267 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
-      "has_potato": "2025-07-20 01:19:59 +0000"
+      "has_item": "2025-07-20 02:58:19 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_black": {
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
-      "has_black_wool": "2025-07-20 01:48:02 +0000"
+      "has_rose_quartz": "2025-07-20 02:58:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "create:rose_quartz": {
     "criteria": {
-      "has_black_wool": "2025-07-20 01:48:02 +0000"
+      "0": "2025-07-20 02:58:40 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
-      "has_item": "2025-07-20 01:53:57 +0000"
+      "has_polished_rose_quartz": "2025-07-20 02:58:40 +0000"
     },
     "done": true
   },
-  "comforts:hammock_black": {
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
-      "has_black_wool": "2025-07-20 01:48:02 +0000"
+      "has_polished_rose_quartz": "2025-07-20 02:58:40 +0000"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/black_flag": {
+  "railways:recipes/misc/crafting/semaphore": {
     "criteria": {
-      "has_black_flag": "2025-07-20 01:48:02 +0000"
+      "has_item": "2025-07-20 02:59:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-20 01:26:37 +0000"
+      "has_item": "2025-07-20 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-07-20 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 03:41:56 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/glow_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-07-20 03:42:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 03:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-20 03:42:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-20 03:54:20 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
+    "criteria": {
+      "has_hay_block": "2025-07-20 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/harvester_pylon": {
+    "criteria": {
+      "has_hay_block": "2025-07-20 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-20 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-20 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-07-20 03:57:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-20 03:57:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-20 03:57:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 03:57:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-20 03:57:53 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-07-20 04:00:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 04:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-20 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-20 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-20 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-20 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-20 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-07-20 04:30:21 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-07-20 04:57:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-07-20 04:58:50 +0000"
     },
     "done": true
   },

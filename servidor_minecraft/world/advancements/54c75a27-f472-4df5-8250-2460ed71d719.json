@@ -8495,7 +8495,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "scrambled_eggs": "2025-07-19 18:43:31 +0000"
+      "scrambled_eggs": "2025-07-19 18:43:31 +0000",
+      "toast": "2025-07-20 02:49:06 +0000"
     },
     "done": false
   },
@@ -10632,6 +10633,30 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-20 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-20 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-07-20 01:17:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-20 01:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
@@ -10641,12 +10666,6 @@
   "dyenamics:recipes/misc/persimmon_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/white_pavement": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -10662,27 +10681,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/mana_void": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/polished_livingrock": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/mana_detector": {
-    "criteria": {
-      "has_alt_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -10701,18 +10702,6 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_livingrock": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/facade": {
-    "criteria": {
-      "glass": "2025-07-20 01:18:13 +0000"
     },
     "done": true
   },
@@ -10746,12 +10735,6 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/livingrock_slate": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
   "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
     "criteria": {
       "glass": "2025-07-20 01:18:12 +0000"
@@ -10764,33 +10747,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/livingwood": {
-    "criteria": {
-      "has_log": "2025-07-20 01:55:27 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/peach_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-07-20 01:17:14 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/diluted_pool": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/yggdrasil_branch": {
-    "criteria": {
-      "criterion0": "2025-07-20 01:55:27 +0000"
     },
     "done": true
   },
@@ -10806,18 +10765,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/turntable": {
-    "criteria": {
-      "has_item": "2025-07-20 01:55:27 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
-    "criteria": {
-      "has_glass": "2025-07-20 01:18:13 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/navy_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
@@ -10827,18 +10774,6 @@
   "dyenamics:recipes/misc/wine_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingwood_planks": {
-    "criteria": {
-      "has_item": "2025-07-20 01:55:27 +0000"
-    },
-    "done": true
-  },
-  "dyenamics:recipes/misc/spring_green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-20 01:18:13 +0000"
     },
     "done": true
   },
@@ -10860,21 +10795,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/glimmering_livingwood_log": {
-    "criteria": {
-      "has_item": "2025-07-20 01:55:27 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/aquamarine_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/incense_plate": {
-    "criteria": {
-      "has_item": "2025-07-20 01:55:27 +0000"
     },
     "done": true
   },
@@ -10884,33 +10807,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/livingwood_twig": {
-    "criteria": {
-      "has_item": "2025-07-20 01:55:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/floating_pure_daisy": {
-    "criteria": {
-      "has_item": "2025-07-20 01:44:37 +0000"
-    },
-    "done": true
-  },
   "forbidden_arcanus:recipes/decorations/utrem_jar": {
     "criteria": {
       "has_glass/colorless": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/livingrock_wall": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -10938,21 +10843,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/horn_grass": {
-    "criteria": {
-      "has_item": "2025-07-20 01:55:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_pool": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -10968,39 +10861,15 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/blue_pavement": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
     },
     "done": true
   },
-  "botania:recipes/building_blocks/red_pavement": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/white_petal_block": {
-    "criteria": {
-      "has_item": "2025-07-20 01:17:14 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/icy_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/black_pavement": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -11022,27 +10891,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/dye_white": {
-    "criteria": {
-      "has_item": "2025-07-20 01:17:14 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/copper_ingot_from_smelting_gloomslate_copper_ore": {
-    "criteria": {
-      "has_the_recipe": "2025-07-20 01:45:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingrock_slab": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -11064,33 +10915,15 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/yellow_pavement": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
-    },
-    "done": true
-  },
   "dyenamics:recipes/misc/lavender_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
     },
     "done": true
   },
-  "dyenamics:recipes/misc/conifer_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-20 01:18:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 01:18:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/green_pavement": {
-    "criteria": {
-      "has_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -11106,9 +10939,141 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/mana_spreader": {
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
-      "has_item": "2025-07-20 01:55:27 +0000"
+      "has_glass": "2025-07-20 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-20 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-07-20 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/spring_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 01:18:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-07-20 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/copper_ingot_from_smelting_gloomslate_copper_ore": {
+    "criteria": {
+      "has_the_recipe": "2025-07-20 01:45:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2025-07-20 01:54:44 +0000"
     },
     "done": true
   },
@@ -11118,21 +11083,418 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+  "botania:recipes/building_blocks/livingwood": {
     "criteria": {
-      "has_glass": "2025-07-20 01:18:12 +0000"
+      "has_log": "2025-07-20 01:55:27 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_white_double": {
+  "mythicbotany:recipes/misc/yggdrasil_branch": {
     "criteria": {
-      "has_alt_item": "2025-07-20 01:17:14 +0000"
+      "criterion0": "2025-07-20 01:55:27 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+  "botania:recipes/decorations/turntable": {
     "criteria": {
-      "has_glass_colorless": "2025-07-20 01:18:12 +0000"
+      "has_item": "2025-07-20 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-07-20 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-07-20 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-07-20 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-07-20 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-07-20 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-07-20 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-20 03:09:17 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reprocessor/outputport": {
+    "criteria": {
+      "has_item2": "2025-07-20 02:52:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-20 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2025-07-20 02:56:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-07-20 02:49:09 +0000",
+      "has_the_recipe": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2025-07-20 02:47:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2025-07-20 02:49:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-20 02:45:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-07-20 02:52:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/l20_shard_use": {
+    "criteria": {
+      "use_l20_shard": "2025-07-20 04:06:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/pink_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-20 03:09:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-20 02:45:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-20 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/fluidizer/outputport": {
+    "criteria": {
+      "has_item2": "2025-07-20 02:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-20 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-20 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-07-20 02:52:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_item": "2025-07-20 02:43:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2025-07-20 02:49:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-20 03:09:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-20 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2025-07-20 02:56:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2025-07-20 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-20 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-20 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-20 02:51:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-20 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2025-07-20 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-20 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2025-07-20 02:55:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-07-20 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-20 02:45:40 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-07-20 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-07-20 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-07-20 02:49:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-20 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-07-20 03:51:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_pink": {
+    "criteria": {
+      "has_item": "2025-07-20 03:09:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-07-20 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-20 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-07-20 03:51:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2025-07-20 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-07-20 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2025-07-20 02:45:40 +0000"
     },
     "done": true
   },

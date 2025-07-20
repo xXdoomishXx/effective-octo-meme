@@ -2030,6 +2030,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-19 03:38:11 +0000",
       "minecraft:spider": "2025-07-19 03:56:55 +0000",
+      "minecraft:creeper": "2025-07-20 04:05:49 +0000",
+      "minecraft:phantom": "2025-07-20 04:57:14 +0000",
       "minecraft:enderman": "2025-07-19 04:09:47 +0000",
       "minecraft:zombie": "2025-07-19 03:59:33 +0000",
       "minecraft:drowned": "2025-07-19 22:50:34 +0000"
@@ -5818,6 +5820,138 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 22:50:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-07-19 22:50:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 22:50:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-07-19 22:51:14 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2025-07-19 23:03:18 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/wheat_extra": {
+    "criteria": {
+      "has_material": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-19 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/mossy_cobblestone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-07-19 23:18:49 +0000"
@@ -5827,12 +5961,6 @@
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-07-19 23:18:49 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/food/enderios": {
-    "criteria": {
-      "has_ingredient": "2025-07-19 23:09:55 +0000"
     },
     "done": true
   },
@@ -5866,18 +5994,6 @@
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/pumpkin_1x": {
-    "criteria": {
-      "has_pumpkin": "2025-07-19 23:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-07-19 23:18:49 +0000"
@@ -5896,24 +6012,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/daub": {
-    "criteria": {
-      "supplementaries:straw": "2025-07-19 23:09:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-07-19 22:50:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/fel_pumpkin": {
-    "criteria": {
-      "has_item": "2025-07-19 23:20:51 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-07-19 23:18:49 +0000"
@@ -5926,33 +6024,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-07-19 23:18:49 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/flour": {
-    "criteria": {
-      "has_grain": "2025-07-19 23:09:55 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-07-19 23:18:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-07-19 23:20:51 +0000"
     },
     "done": true
   },
@@ -5968,30 +6048,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/mossy_cobblestone_chain": {
-    "criteria": {
-      "recipe_condition": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/pumpkin_soup": {
-    "criteria": {
-      "has_pumpkin": "2025-07-19 23:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-07-19 23:18:49 +0000"
@@ -6004,69 +6060,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-07-19 23:20:51 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-07-19 23:18:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-07-19 23:09:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-07-19 23:09:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-19 22:50:53 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/pumpkin_bars": {
-    "criteria": {
-      "has_pumpkin": "2025-07-19 23:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-07-19 23:20:51 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
-    "criteria": {
-      "has_material": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-07-19 23:09:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-07-19 23:09:55 +0000"
     },
     "done": true
   },
@@ -6076,45 +6072,9 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/tools/wheat_extra": {
-    "criteria": {
-      "has_material": "2025-07-19 23:09:55 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/lexicon": {
-    "criteria": {
-      "has_item": "2025-07-19 22:51:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-19 23:17:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_yellow_double": {
-    "criteria": {
-      "has_item": "2025-07-19 23:18:53 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/yellow_shiny_flower": {
     "criteria": {
       "has_item": "2025-07-19 23:18:49 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:eat_bombegranate": {
-    "criteria": {
-      "eat_bombegranate": "2025-07-19 23:03:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-07-19 23:09:55 +0000"
     },
     "done": true
   },
@@ -6124,17 +6084,305 @@
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-07-19 22:50:36 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/petal_yellow": {
     "criteria": {
       "has_item": "2025-07-19 23:18:49 +0000"
     },
     "done": true
+  },
+  "botania:recipes/misc/petal_yellow_double": {
+    "criteria": {
+      "has_item": "2025-07-19 23:18:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-07-19 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/pumpkin_1x": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 23:20:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 23:20:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 23:20:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2025-07-20 04:42:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-20 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-07-20 04:52:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 04:57:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-07-20 04:57:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
