@@ -10835,7 +10835,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "toast": "2025-07-19 05:21:14 +0000"
+      "toast": "2025-07-19 05:21:14 +0000",
+      "calamari": "2025-07-20 00:35:27 +0000"
     },
     "done": false
   },
@@ -12201,6 +12202,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-07-20 00:34:42 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/persimmon_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 00:23:14 +0000"
@@ -12234,6 +12241,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-07-19 23:30:32 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-07-20 00:34:42 +0000"
     },
     "done": true
   },
@@ -12447,6 +12460,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 00:38:25 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pressure_chamber/compressed_iron_block": {
     "criteria": {
       "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
@@ -12522,6 +12541,12 @@
   "dyenamics:recipes/misc/peach_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 00:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-20 00:34:42 +0000"
     },
     "done": true
   },
@@ -12711,6 +12736,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/glow_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-07-20 00:35:31 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
     "criteria": {
       "has_redstone_block": "2025-07-19 23:14:56 +0000"
@@ -12819,6 +12850,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-20 00:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 00:23:14 +0000"
@@ -12849,6 +12886,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-20 00:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 00:23:14 +0000"
@@ -12858,6 +12901,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 22:36:57 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-07-20 00:32:10 +0000"
     },
     "done": true
   },
@@ -13059,6 +13108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-20 00:34:42 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pressure_chamber/empty_pcb": {
     "criteria": {
       "pressure_chamber_valve": "2025-07-19 23:02:54 +0000"
@@ -13155,6 +13210,18 @@
     },
     "done": true
   },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-07-20 00:34:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 00:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-07-19 23:08:42 +0000"
@@ -13194,6 +13261,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-19 22:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-20 00:35:31 +0000"
     },
     "done": true
   },
@@ -13281,6 +13354,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-20 00:35:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-07-19 22:45:42 +0000"
@@ -13308,6 +13387,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 00:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-20 00:34:42 +0000"
     },
     "done": true
   },
